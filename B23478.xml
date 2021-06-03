@@ -1,0 +1,2673 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Christian-testimony born by the people of God in scorn called Quakers in London in their patient suffering the taking away and spoiling of their goods for non-payment of tythes to the parish priests.</title>
+            <author>Gibson, William, 1629-1684.</author>
+         </titleStmt>
+         <extent>Approx. 110KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23478</idno><idno type="EEBO-CITATION">17150244</idno>
+  <idno type="VID">206303</idno>
+  <idno type="EEBO-PROQUEST">2240856853</idno>
+  
+            <idno type="STC">Wing G680</idno>
+            <idno type="OCLC">17150244</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23478)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206303)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1616:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Christian-testimony born by the people of God in scorn called Quakers in London in their patient suffering the taking away and spoiling of their goods for non-payment of tythes to the parish priests.</title>
+                  <author>Gibson, William, 1629-1684.</author>
+               </titleStmt>
+               <extent>47 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London?] printed :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to Gibson.</note>
+                  <note>"The preface to the reader" signed: William Gibson.</note>
+                  <note>Records amounts taken from Quakers for payment of tythes in arrears.</note>
+                  <note>Errata: p. 47.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  England.</term>
+               <term type="topical_term">Tithes.</term>
+               <term type="topical_term">Persecution.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206303:1"/>
+            <p>A Christian-Testimony Born by the PEOPLE of GOD In Scorn called QUAKERS IN LONDON, In their Patient Suffering the Taking Away and Spoiling of their Goods for Non-Payment of TYTHES to the Parish PRIESTS.</p>
+            <q>
+               <p>Christ commanded his Apostles and Disciples, saying, Free<g ref="char:EOLhyphen"/>ly ye have received, freely give, <bibl>
+                     <hi>Matth. 10.8.</hi>
+                  </bibl>
+               </p>
+               <p>
+                  <hi>And the Apostle saith,</hi> I have coveted no man's Silver, Gold or Apparel: Yea, you your selves know, that these Hands have ministred to my Necessities, and to them that were with me, <bibl>
+                     <hi>Acts 20.33, 34.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>Printed in the Year 1679.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:206303:2"/>
+            <pb n="3" facs="tcp:206303:2"/>
+            <head>THE PREFACE TO THE READER.</head>
+            <opener>
+               <salute>
+                  <hi>Friendly</hi> Reader;</salute>
+            </opener>
+            <p>THE following matter being an Account of the distraining and taking away of the Goods of some of us, the People called <hi>Quakers</hi> in the City of <hi>London,</hi> because we refused to pay unto the Parish Priests Tythes or certain Sums of Money, in Law called <hi>Tythes;</hi> We, the said People, shall in Christian Ten<g ref="char:EOLhyphen"/>derness and Plainness render some <hi>Christian Reasons</hi> why we cannot pay or give Tythes to the Parish Priests or Ministers.</p>
+            <p>
+               <hi>First,</hi> We are not Unbelieving <hi>Jews,</hi> but Real <hi>Chri<g ref="char:EOLhyphen"/>stians,</hi> therefore we cannot give or pay them Tythes. God commanded Tythes to be paid under the Dispen<g ref="char:EOLhyphen"/>sation of the Law, which came by <hi>Moses,</hi> and those Tythes were ordained for the Relief of the Widows, Fatherless and Strangers, as well as for the Priests. This command for paying and receiving Tythes, as aforesaid, continued in force amongst the <hi>Jews,</hi> till our Lord Jesus Christ came in the Flesh, and had of<g ref="char:EOLhyphen"/>fered himself up through the Eternal Spirit; who by his One Offering put an End to the Priesthood of <hi>Aaron</hi> and <hi>Levi,</hi> together with their Temple and Tythes, and all the rest of the Shadowy Offerings and Services:
+<pb n="4" facs="tcp:206303:3"/> And as the Apostle said, <hi>God disannulled this Command<g ref="char:EOLhyphen"/>ment for the Weakness and Unprofitableness thereof; for the Law made nothing Perfect,</hi> &amp;c. <hi>For such an High-Priest becometh us, who is holy, Harmeless, Separate from Sinners, &amp;c.</hi> see Heb. 7.18, 19, 26. And again, <hi>The Priesthood being changed, there is made of necessity a change of the Law,</hi> Vers. 12. So Christ by his One Offering hath Ended this Dispensation of Tything above Six<g ref="char:EOLhyphen"/>teen Hundred Years since. But when this Com<g ref="char:EOLhyphen"/>mand was in Force, it was only to the Natural <hi>Jews,</hi> and therefore no Concern of ours, who are by Nature <hi>Gentiles.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Christ, who ended this <hi>Jewish</hi> Dispensa<g ref="char:EOLhyphen"/>tion of Tything, did not set up Tythes again in the Gospel Dispensation, either among <hi>Jews</hi> or <hi>Gentiles,</hi> for the Maintenance of his Ministers, (nor for any other use) but contrarywise commanded his Mini<g ref="char:EOLhyphen"/>sters, saying, <hi>Freely ye have received, Freely give, &amp;c. and whosoever shall not hear you, nor receive your Words, when you depart out of that House or City, shake off the Dust of your Feet,</hi> Mat. 10.7, 14. Again, <hi>But into what so<g ref="char:EOLhyphen"/>ever City ye enter, and they receive you, eat such Things as are set before you, &amp;c. But into whatsoever City you enter, and they receive you not, go your ways out into the Streets of the same, and say, Even the very Dust of your City, which cleaveth to us, we do wipe off against you,</hi> Luke 10.8, 10, 11. Thus it plainly appears, that Christ's Command was and is, to preach or minister Freely as they then had, and such now have, received Freely; and those who are truly his Ministers, do keep this his Command; and such have Power in Christ to eat such as is set before them, by those who do receive them, but not to take Tythes or Sums of Money, for
+<pb n="5" facs="tcp:206303:3"/> preaching, from those who do not receive, believe nor own their Testimony, nor Sue them at the Law, to take away or Spoil their Goods, because they refuse to pay them. This Practice of the aforesaid Priests is contrary to both Law and Gospel. For when the <hi>Jews</hi> broke the Law of God in not bringing Tythes into his Store-House, we do not read, nor believe, that God did impower Magistrates to give Warrants to the Priests, under the Law, to distrain or take away their Goods for the same, nor to take Double or Trebble the Value of the Tythes then Due; nor to Imprison and Op<g ref="char:EOLhyphen"/>press the Bodies of such Offenders; neither was it then said, that such Offenders did Rob the Priests, but that they Robbed God; neither were the Priests, or Magistrates to punish them for this Robbery; but the Power of punishing of these, the great God re<g ref="char:EOLhyphen"/>served in himself, and he Blasted or Cursed the Fruits of the Earth, as a Punishment for their Rebel<g ref="char:EOLhyphen"/>lion, &amp;c. see <hi>Mal.</hi> 3. <hi>Deut.</hi> 28.38, 39, 40.</p>
+            <p>
+               <hi>Objection,</hi> Some perhaps may object from the A<g ref="char:EOLhyphen"/>postles words, on the behalf of the aforesaid Priests of <hi>London,</hi> and say, <hi>Who goeth a Warfare any time at his own Charge? Who planteth a Vineyard, and eateth not of the Fruit thereof? Who feedeth a Flock, and eateth not of the Milk of the Flock? If we sow unto you Spiritual Things, is it a great matter if we shall reap of your Carnal Things?</hi>
+            </p>
+            <p>
+               <hi>Answer,</hi> What the Apostle saith in this Case we own; but this is not the Case betwixt us and the Priests aforesaid; for, <hi>First,</hi> Those Priests do not go to War for us, but against us; therefore we ought not to bear the Charge of this their Evil War.</p>
+            <pb n="6" facs="tcp:206303:4"/>
+            <p>
+               <hi>Secondly,</hi> They have not planted us a Vineyard or Church unto God; but we being planted of God, they have laboured, and do labour to scatter us by their Cruelties and Oppression; therefore they ought not to have a Reward from us, for whom they do not work.</p>
+            <p>
+               <hi>Thirdly,</hi> They do not feed us, who are the Flock of God, but on the contrary; their Works against us have been, and are, to seek to weaken, starve and scatter us from the Fold of our great Shepherd <hi>Christ Jesus:</hi> But Glory to God, through him, he keeps us, who is stronger then them all, by whom we are gathered, preserved, fed and brought to Peace and Rest in him.</p>
+            <p>
+               <hi>Fourthly,</hi> These Priests have not sown, nor do sow unto us Spiritual Things, but on the contrary; the Fruits of the Flesh, which is Covetousness, &amp;c. they have sown in a plentious manner, to our great Wrong and Injury; therefore we cannot own them as Mini<g ref="char:EOLhyphen"/>sters of Christ, nor consent to give our Substance to maintain them as such; but we have true Love to them, and all men, and we could feed them as our Enemies, if we knew they had need thereof (though we cannot feed them as the Ministers of Christ, we not believing them to be such; and that which the more confirms us in our Belief, that they are not such, is their be<g ref="char:EOLhyphen"/>ing found in direct Opposition to the Command of Christ, who saith, <hi>Freely ye have received, Freely give;</hi> and contrary to the Doctrine and Example of the Ministers of Christ, both in their Maintenance and Conversation.</p>
+            <p>Ag<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in, the Apostle <hi>Peter</hi> writ unto the Elders of the Church of Christ, saying, <hi>The Elders which
+<pb n="7" facs="tcp:206303:4"/> are among you, I exhort, who am also an Elder, and a Witness of the Sufferings of Christ, and also a Partaker of the Glory that shall be revealed, Feed the Flock of God, which is among you, taking the Over-sight thereof not by Constraint, but Willingly; Not for filthy Lucre, but of a ready Mind; Neither as being Lords over God's Heritage, but being Ensamples to the Flock;</hi> see 1 Pet. 5.1, 2, 3.</p>
+            <p>
+               <hi>First,</hi> Observe, the Apostle <hi>Peter</hi> and the rest of the Elders of the Church of Christ were made SUCH by Christ himself, who endued them with Power from on High, for the great Work of the Mini<g ref="char:EOLhyphen"/>stry; and by the same means are all the Elders of the Church of Christ made at this Day.</p>
+            <p>
+               <hi>Secondly,</hi> The true Ministers and Elders of the Church of Christ do take the Over-sight thereof not by Constraint, but Willingly: God makes them wil<g ref="char:EOLhyphen"/>ling to preach Freely, according to Christ's Com<g ref="char:EOLhyphen"/>mand; they do not take the over-sight of the Flock for filthy Lucre, but of a ready Mind. <hi>Note,</hi> The word <hi>Lucre</hi> signifies <hi>Gain;</hi> and <hi>filthy Lucre</hi> is <hi>Gain ill gotten:</hi> Now that Gain that is gotten in breaking the Com<g ref="char:EOLhyphen"/>mand of Christ is not well, but ill gotten; and such is that Gain of the Persons before-mentioned, which is gotten as aforesaid.</p>
+            <p>
+               <hi>Thirdly,</hi> The true Elders and Ministers of Christ neither were, nor are, Lords over God's Heritage, but good Ensamples to the Flock; and because the Persons before-mentioned do not abide in the Do<g ref="char:EOLhyphen"/>ctrine of Christ, neither follow the Doctrine or Ex<g ref="char:EOLhyphen"/>ample of his holy Apostles and Elders in their Call, Ministry, Maintenance and Coversation, therefore we cannot esteem them the true Ministers and Elders
+<pb n="8" facs="tcp:206303:5"/> set up by Christ; and therefore we cannot give them of our outward Substance to uphold them as such. The Apostle <hi>Paul</hi> saith, <hi>There were many in his day, who taught that which they ought not for filthy Lucres sake;</hi> see Tit. 1.11. And we have just cause to say, there are many such in our day; but the Lord is discovering them daily more and more, and he will bring these their Evil Works to an End, in his ap<g ref="char:EOLhyphen"/>pointed Season, which hastens on apace; and in the mean time we are chearfully given up to suffer what<g ref="char:EOLhyphen"/>ever the Lord permits our Adversaries to inflict upon us for the Exercise of our tender Consciences to him.</p>
+            <closer>
+               <dateline>This is given forth as a Testimony for Christ, on the Behalf of my Suffering Friends,</dateline>
+               <signed> William Gibson.</signed>
+            </closer>
+         </div>
+         <div type="relevant_scripture_passages">
+            <head>Here followeth a brief Collection of some Scriptures, which the Parish Priests of <hi>London</hi> and others concerned are desired to consider and compare their Lives and Practices therewith, wherein they may see the Tenderness and Care of the holy Apostles, who did neither seek nor reap Carnal things of those to whom they did not sow Spiri<g ref="char:EOLhyphen"/>tual; as likewise they had a tender care that they might make the Gospel of Christ without Charge, amongst those who bad received the Spiritual things through them.</head>
+            <p>
+               <hi>PAUL</hi> said, <hi>What is my Reward then; verily that when I preach the Gospel, I may make the Gospel of
+<pb n="9" facs="tcp:206303:5"/> Christ without Charge, that I abuse not my Power in the Go<g ref="char:EOLhyphen"/>spel,</hi> 1 Cor. 9.18. Again, <hi>Paul</hi> said unto the <hi>Corinthians</hi> who believed, <hi>Did I make a Gain of you by any of them whom I <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent unto you? I desired</hi> Titus, <hi>and with him I sent a Brother: Did</hi> Titus <hi>make a Gain of you? walk we not in the same Spirit? walk we not in the same steps?</hi> 2 Cor. 12.17, 18. Again, <hi>Paul</hi> said to <hi>Timothy, The love of Mo<g ref="char:EOLhyphen"/>ney is the Root of all Evil, which while some have Coveted after, they have Erred from the Faith, and pierced them<g ref="char:EOLhyphen"/>selves through with many Sorrows: But thou O man of God flee these things, and follow after Righteousness, Godli<g ref="char:EOLhyphen"/>ne<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, Faith, <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ove, Patience, Meekness,</hi> &amp;c. 1 <hi>Tim.</hi> 6.10 11. Again, <hi>Paul</hi> saith, <hi>Covetousness is Idolatry;</hi> see <hi>Col.</hi> 3.5. <hi>Luke</hi> 12.15. Christ said unto them, <hi>Take heed and beware of Covetousness, for a mans Life consist<g ref="char:EOLhyphen"/>eth n<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t in the abundance of the things which he possesseth.</hi>
+            </p>
+            <p>And herein they may see how they are gone astray and <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rred from the command of Christ, who said to his Ministe<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, <hi>Freely ye have received, freely give,</hi> and from the Doctrine, Practice and Example of his holy Apostles and Prophets, who abode in his Doctrine, who kept his Commands: <hi>The Spi<g ref="char:EOLhyphen"/>rit and the Bride say Come, and let him that heareth say Come, and let him that is Athirst come, and whosoever will let him take the Water of Life freely,</hi> Rev. 22.16, 17. The holy Prophet said, <hi>Ho every one that thirsteth come ye to the Waters, and he that hath no Money come ye, buy and eat, yea, come buy Wine and Milk without Mo<g ref="char:EOLhyphen"/>ney and without Price: Wherefore do you spend your Money for that which is not Bread, and your Labour for that which satisfietb not? hearken diligently unto me, and eat ye that which is good, and let your Soul delight it self in Fatness, encline your Ear and come unto me; hear and your Souls
+<pb n="10" facs="tcp:206303:6"/> shall live,</hi> &amp;c. <hi>Isa.</hi> 55.1, 2, 3. Read the Chapter through which contains sweet and comfortable Prophecies of the free, glorious, powerful &amp; comfortable Gospel day, wherein the free Teachings of Christ in Spirit is plen<g ref="char:EOLhyphen"/>tifully known by all those who come into the living Faith, which he is the Author and Finisher of; in which Faith they live to God and please him, through which their Hearts are purified, and in which the Victory is known over the old Red Dragon, the Devil and Sa<g ref="char:EOLhyphen"/>tan and his Works and Instruments; <hi>Which Faith works by Love,</hi> as the Apostle saith.</p>
+            <p>We desire that the Parish Teachers may conform their Lives and Practices unto the Commands, Do<g ref="char:EOLhyphen"/>ctrine and Example of Christ and his holy Apostles, and if they do this, we know they will not seek Wages or Reward of us for whom they do no Work, they will not seek nor take away our Carnal things, who sow no Spiritual things unto us, but on the con<g ref="char:EOLhyphen"/>trary, they will Repent of the wrong they have alrea<g ref="char:EOLhyphen"/>dy done us, and will cease to do so any more, and to see this great Change and Reformation in them would be matter of great gladness to us for their sake, for such a change would render them acceptable to God through Jesus Christ, which state to possess and enjoy abundantly transcends and excells all the Honour and Glory, and Riches, and Pleasure that there is in the whole Earth, and it is our hearty desire that they may seek this Heavenly Riches, and to find and Inherit the same. The holy man said, <hi>Who amongst us shall dwell with everlasting Burnings? he that walketh in Righteous<g ref="char:EOLhyphen"/>ness and speaketh uprightly; he that despiseth the Gain of Oppression, that shaketh his Hands from holding of Bribes, that stoppeth his Ears from hearing of Blood, and shutteth his
+<pb n="11" facs="tcp:206303:6"/> Eyes from seeing Evil; he shall dwell on high, his place of d<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fence shall be the Munision of Rocks, Bread shall be given him, his Water shall be sure,</hi> Isa. 33.14, 15, 16.</p>
+            <closer>
+               <signed>W. G.</signed>
+            </closer>
+         </div>
+         <div type="defense">
+            <head>To those who may Inquire, Why we cannot pay the Parish Teachers their (undue) demands?</head>
+            <p>I <hi>Answer,</hi> We can leave it to the Witness of God in all tender Consciences, who have not sinned out the Day of their Visitation, and who are not become hard and past feeling: How unreasonable a thing it is for any to be so far imposed upon to maintain and up<g ref="char:EOLhyphen"/>hold that which they do believe Gods Hand is against, and he will throw down. And whether they them<g ref="char:EOLhyphen"/>selves would be willing to maintain the <hi>Popish</hi> Priests, which they cry out against as Idolators? If they an<g ref="char:EOLhyphen"/>swer, <hi>Yea, if the Law of the Nation required it:</hi> Then whether we may not conclude them grand Hypocrites that can maintain that, if required by a Law, which without a Law they call Idolatry? If they say. <hi>Nay;</hi> then whether they do not break that Royal Law and Golden Rule, which the Lip of Truth it self saith is both the Law and the Prophets? viz. <hi>What so<g ref="char:EOLhyphen"/>ever ye would that men should do to you, do ye even so to them,</hi> Mat. 7.12. And so instead of being Minist<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs of the Gospel, are found to be Transgressors both of Law and Gospel, and in the steps of those the Prophet cryed Wo against, <hi>who bite with their Teeth, and cry Peace, and he that putteth not into <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir Mouths they pre<g ref="char:EOLhyphen"/>pare War against: Wherefore Night shall <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> upon you <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat
+<pb n="12" facs="tcp:206303:7"/> you shall not have a Vision, and it shall be dark unto you, that you shall not Divine, and the Sun shall go down over the Prophets, and the Day shall be dark over them; then shall the Seer be ashamed, and the Diviners confounded, yea, they shall all cover their Lips, for there is no An<g ref="char:EOLhyphen"/>swer of God:</hi> And this am I a Witness the Lord hath fulfilled, and is fulfilling upon you, O, you mercena<g ref="char:EOLhyphen"/>ry Priests of this City and Nation. If you, O ye Priests shall think these hard Sayings, consider what the Actions are here cryed Wo against, and lay your Hands upon your Mouths, and say you have sinned, and Repent▪ and do so no more, and that will be the way to find Mercy at the hand of the Lord, which that you may do is the desire of him who desires the Good of all men; and that they might come to the Know<g ref="char:EOLhyphen"/>ledge of the Truth and be saved.</p>
+            <closer>
+               <signed>Job Boulton.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <p>Those that desire to be further Informed, why we refuse to give or pay Tythes, may (we suppose) be fully satisfied if they peruse these Books following with Impartiallity, viz. <hi>The great Case of Tythes,</hi> by <hi>Francis Howgill. Tythes Ended by Christ,</hi> by <hi>Thomas Rud<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ard</hi> and <hi>William Gibson. The Foundation of Tythes shaken,</hi> by <hi>Thomas Elwood. A Testimony against Tything among Christians, &amp;c.</hi> by <hi>Richard Richardson.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="13" facs="tcp:206303:7"/>
+            <head>An Account of Goods taken from the People of God in Scorn called <hi>Quakers</hi> in the New-bu<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ldings in the City of <hi>LON<g ref="char:EOLhyphen"/>DON,</hi> for the Priests Tythes in the Years 1673, &amp; 74. by Virtue of Warrants grant<g ref="char:EOLhyphen"/>ed to them by <hi>Geo. Waterman</hi> and <hi>Robert Hanson,</hi> then Mayors of the City.</head>
+            <p>THE 11th of the 5th Moneth 1673. taken from <hi>Richard Butcher,</hi> of the Parish of <hi>Ann Alders-Gate,</hi> by Virtue of a Warrant granted to <hi>Samuel Freeman,</hi> Priest of the said Parish, Pewter, cost 2 l. 11 s. for 1 l. 10 s. demanded, taken by <hi>Henry Wyat</hi> Collector, and <hi>Thomas Ward</hi> Constable.</p>
+            <p>Taken from <hi>John Tyso</hi> of the same Parish, by Virtue of the same Warrant, for the same Priest and by the same Persons, Hous<g ref="char:EOLhyphen"/>hold Goods to the Value of 3 l. 2 s. for 1 l. 18 s. demanded for two years and a quarters Tythe, although <hi>John Pasmore,</hi> Constable in the same Parish, being a Conscientious man, said, <hi>He could not do such a thing.</hi>
+            </p>
+            <p>The 18th of the 5th Moneth, 1673. taken from <hi>John Vaughton</hi> of the same Parish, by Virtue of the same Warrant, likewise, for the same Priest, and by the same Persons, Pewter, to the Value of 1 l. 4 s. 8 d. for 14 s. demanded.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Taken from the three Persons above mentioned</cell>
+                     <cell>6 l.</cell>
+                     <cell>17 s.</cell>
+                     <cell>8 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Demanded</cell>
+                     <cell>4 l.</cell>
+                     <cell>2 s.</cell>
+                     <cell>0 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Taken more then demanded</cell>
+                     <cell>2 l.</cell>
+                     <cell>15 s.</cell>
+                     <cell>8 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="14" facs="tcp:206303:8"/>
+            <p>The 23d of the 5th Moneth, 1673. taken from <hi>John Light</hi> of the Parish of <hi>Alhallows</hi> the great, by Virtue of a Warrant granted to <hi>Thomas White,</hi> Priest of the said Parish, twelve pieces of Callicoes, cost 2 l. 2 s. for <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> l. 5 s. 4 d demanded; taken by <hi>George Backsier,</hi> the Priests man, and <hi>Henry Barret</hi> Constable.</p>
+            <p>The 23d of the 7th Moneth, 1673. taken from <hi>William Chandlor</hi> of the Parish of <hi>Margarets New-Fishstreet,</hi> by V<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rtue of a Warrant granted to <hi>David Barton,</hi> Priest of the said Parish, nine couple of <hi>Cod-fish,</hi> to the Value of 1 l. 1 s. for 11 s. 4 d. ob. demanded; taken by <hi>Edward Colcot,</hi> Clark of the said Parish, and <hi>John Jesse</hi> Constable.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Returned</cell>
+                     <cell>1 s.</cell>
+                     <cell>7 d. ob.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The 22d of the 8th Moneth, 1673. taken from <hi>Thomas Pax<g ref="char:EOLhyphen"/>ton</hi> of the aforesaid Parish, by Virtue of a Warrant granted to <hi>David Barton,</hi> the Priest aforesaid, twenty three couple of <hi>Codfish,</hi> to the Value of 2 l. 13 s. 6 d. for 1 l. 13 s. 3 d. demanded, by <hi>Edward Colcot</hi> Clark, and <hi>John Jesse</hi> Constable aforesaid.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Returned</cell>
+                     <cell> </cell>
+                     <cell>7 s.</cell>
+                     <cell>9 d.</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell>Taken from the two persons before<g ref="char:EOLhyphen"/>mentioned, Goods to the value of</cell>
+                     <cell>3 l.</cell>
+                     <cell>14 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Demanded</cell>
+                     <cell>2 l.</cell>
+                     <cell>4s.</cell>
+                     <cell>7 d. ob.</cell>
+                  </row>
+                  <row>
+                     <cell>Returned</cell>
+                     <cell> </cell>
+                     <cell>9 s.</cell>
+                     <cell>4 d. ob.</cell>
+                  </row>
+                  <row>
+                     <cell>Demanded and Returned</cell>
+                     <cell>2 l.</cell>
+                     <cell>14 s.</cell>
+                     <cell>0 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Taken more then demanded</cell>
+                     <cell>1 l.</cell>
+                     <cell>0 s.</cell>
+                     <cell>0 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The 24th of the 5th Moneth, 1674. taken from <hi>Richard Butcher,</hi> of the Parish of <hi>Ann Alders-Gate,</hi> by Virtue of a Warrant granted to <hi>Samuel Freeman,</hi> Priest of the said Parish, Pewter, to the Value of 1 l. 10 s. for 15 s. demanded; taken by <hi>Henry Wyatt</hi> Collector, and a Constable.</p>
+            <pb n="15" facs="tcp:206303:8"/>
+            <p>The 24th of the 5th Moneth, 1674. taken from <hi>Thomas Cobb,</hi> of the Parish aforesaid, by Virtue of the same Warrant, grant<g ref="char:EOLhyphen"/>ed to the Priest, and by the Collector aforesaid, four Dozen of Flag-brooms, valued at 16 s. for 8 s. demanded.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Taken from the two Persons above<g ref="char:EOLhyphen"/>mentioned Goods valued at</cell>
+                     <cell>2 l.</cell>
+                     <cell>6 s.</cell>
+                     <cell>0 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Demanded</cell>
+                     <cell>1 l.</cell>
+                     <cell>3 s.</cell>
+                     <cell>0 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Taken more than demanded</cell>
+                     <cell>1 l.</cell>
+                     <cell>3 s.</cell>
+                     <cell>0 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The 19th of the 8th Moneth, 1674. taken from <hi>William Chandlor,</hi> of the Parish of <hi>Margaret New-Fishstreet,</hi> by Virtue of a Warrant granted to <hi>David Barton,</hi> Priest of the said Parish, six couple of <hi>Codfish,</hi> to the value of 12 s. for 6 s. demanded by <hi>Edward Collcot</hi> Clark, and <hi>Arthur Price</hi> Constable.</p>
+            <p>The 8th Moneth, 74. Taken from <hi>Richard Thornton</hi> of the Parish of <hi>Stephen Colemanstreet,</hi> by vertue of a Warrant grant<g ref="char:EOLhyphen"/>ed to <hi>Thomas Neast,</hi> Priest of the said Parish, Pewter, Brass and Iron to the value of 1 l 3 s. for 7 s. demanded; taken by <hi>John Davis</hi> Collector, and <hi>Paul Thomlins</hi> Constable.</p>
+         </div>
+         <div type="account">
+            <head>An Account of Goods taken in the Year 1674, and 1675. by virtue of Warrants granted from <hi>William Hooker</hi> Mayor.</head>
+            <p>THe 21th of the 11th Moneth, 1674. Taken from <hi>Thomas Rudyard</hi> of <hi>George Yard</hi> in <hi>Lumbarstreet,</hi> by virtue of a Warrant granted to Doctor <hi>Bradford</hi> (so called) Priest of the Parish, Pewter to the value of 3 l. for 30 s. demanded; taken by <hi>Richard Ellere</hi> the Priest's Coach-man, and a Con<g ref="char:EOLhyphen"/>stable, for a year's Tythes.</p>
+            <pb n="16" facs="tcp:206303:9"/>
+            <p>Taken from <hi>Job Boulton</hi> of the Parish of <hi>Edmonds Lumbarstreet,</hi> Gold-smith, by virtue of a Warrant granted to the afore-said Priest <hi>Bradford,</hi> a Cloak, which was redeemed by a Neighbour for 15 s. the Priest's Demands, taken by <hi>Richard Ellere,</hi> the Priest's Coachman, and a Constable, for half a years Tythes.</p>
+            <p>The 2d of the 2d Moneth, 1675. Taken from <hi>William Crouch</hi> of <hi>Crown Court</hi> in <hi>Gratious-street,</hi> by virtue of a War<g ref="char:EOLhyphen"/>rant granted to <hi>John Cliff</hi> Priest of the Parish of <hi>Bennets Grace-Church,</hi> so called, two pieces of Searge, white, valued at 3 l. 10 s. for 1 l. 19 s. d<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>man<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed; tak<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n by <hi>John Y<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ung,</hi> Church<g ref="char:EOLhyphen"/>warden, so called, for three quarters of a years Tythes.</p>
+            <p>The 27th of the 2d Moneth, 1675. T<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ken f om <hi>Thomas Baker</hi> of the Parish of <hi>Leonard Eastchip,</hi> by vi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tue of a Warrant granted to <hi>Elkinton Downes,</hi> Priest of the said Parish, sixteen Stone and two Pound of Beef, valued at 1 l. 17 s. 10 d. f<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r 14 s. 4 d. demanded; taken by the Priest h<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mself, and assisted by <hi>Edward Newens</hi> Constable,
+<table>
+                  <row>
+                     <cell>Returned</cell>
+                     <cell>11 s.</cell>
+                     <cell>3 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The 16th of the 4th Moneth, 1675. Taken from <hi>Richard Butcher</hi> of the Parish of <hi>Ann A<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rsgate,</hi> by virtue of a Warrant granted to <hi>Samuel F<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eeman,</hi> Priest of the Parish, Pewter to the value of 1 l. 7 s. for 15 s. demanded; taken by <hi>Henry Wyat</hi> Collector, and a Constable.</p>
+            <p>Taken from <hi>Thomas Cobb</hi> of the Parish aforesaid, by virtue of a Warrant granted to the afore ment oned Priest, fifty four Pound and a half of old Cheese at 4 d. per pound, 18 s. 2 d. for 8 s. demanded; taken by <hi>Henry Wyat</hi> Collector, and <hi>John Neaves</hi> Constable in <hi>Cary-Lane.</hi>
+            </p>
+            <p>The 16th of the 4th Moneth, 1675. Taken from <hi>Thomas Robinson</hi> of <hi>Fenchurch-street,</hi> and of <hi>Dionis Bac<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>church</hi> Parish, (so called) by virtue of a Warrant granted to <hi>George May</hi> Priest of the said Parish, several Looking-glasses, to the value of 4 l. 10 s. for 1 l. 16 s. demanded; taken
+<pb n="17" facs="tcp:206303:9"/> by <hi>Samuel Hanky</hi> Constable, and a Stranger of <hi>Cripplegate</hi> Parish.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Taken</cell>
+                     <cell>4 l.</cell>
+                     <cell>10 s.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Demanded</cell>
+                     <cell>1 l.</cell>
+                     <cell>16 s.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Returned</cell>
+                     <cell>—</cell>
+                     <cell>04 s.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Taken more than demanded</cell>
+                     <cell>2 l.</cell>
+                     <cell>10 s.</cell>
+                     <cell>—</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The 21th of the 7th Moneth, 1675. Taken from <hi>William Wygan</hi> of the same Parish, by virtue of a Warrant granted to <hi>Samuel Freeman,</hi> Priest aforesaid, three Saddles, valued at 1 l. 12 s. for 13 s. 6 d. demanded; taken by <hi>Richard Browne</hi>
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> for <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+            </p>
+            <p>Returned one Saddle, valued at 8 s.</p>
+            <p>The 10th of the 8th Moneth, 1675. Taken from <hi>Mary Fo<g ref="char:EOLhyphen"/>ster</hi> Widow, Inmate in the House of <hi>Gerrard Roberts,</hi> and his (accompted) Dues, by virtue of a Warrant granted to <hi>John Aucher,</hi> Priest of the Parish of <hi>Alhallows Lumbardstreet,</hi> Goods to the value of 5 l. 5 s. 7 d. for 40 s. demanded; taken by and a Constable, for three Years Tythes.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Returned</cell>
+                     <cell>6 s.</cell>
+                     <cell>4 d.</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="account">
+            <pb n="18" facs="tcp:206303:10"/>
+            <head>An Account of Goods taken in the Year 1675, and 1676. by virtue of Warrants granted from <hi>Robert Vyner</hi> Mayor.</head>
+            <p>THe 27th of the 9th Moneth, 1675. Taken from <hi>John Hodgkins</hi> of the Parish of <hi>George Botolphlane</hi> (so called) by virtue of a Warrant granted to <hi>William Sherlock</hi> Priest of the Parish, two Brass Kettles, one Warming-pan, and one Skillit, to the value of about 1 l. 9 s. for 9 s. 4 d. demanded; Taken by <hi>John Crane</hi> Clerk and a Constable, for one year's Tythes.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Taken</cell>
+                     <cell>1 l.</cell>
+                     <cell>9 s.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Demanded</cell>
+                     <cell>—</cell>
+                     <cell>9 s.</cell>
+                     <cell>4 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Taken more than Demanded</cell>
+                     <cell>—</cell>
+                     <cell>19 s.</cell>
+                     <cell>8 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Taken from <hi>Thomas Rudyard</hi> of <hi>George-Yard</hi> in <hi>Lumbardstreet,</hi> by virtue of a Warrant granted to Doctor <hi>Bradford</hi> (so cal<g ref="char:EOLhyphen"/>led) Priest of the Parish of <hi>Edmund Lumbardstreet,</hi> Pewter to the value of 2 l. for 15 s. demanded; taken by <hi>Richard El<g ref="char:EOLhyphen"/>lere</hi> Coachman to the said Priest, and a Constable, who refused to appraise them before carried away, although demanded.</p>
+            <p>Taken from <hi>Job Boulton</hi> of the Parish of <hi>Edmund Lumbardstreet</hi> Goldsmith, by virtue of a Warrant granted to the Priest above<g ref="char:EOLhyphen"/>mentioned, one Tankard valued at 3 l. 18 s. for 1 l. 10 s. de<g ref="char:EOLhyphen"/>manded; taken by <hi>Richard Ellere</hi> the Priest's Coachman, and a Constable, for a year's Tythes.</p>
+            <p>Returned (to the best of my Remembrance) 1 l. 18 s. 6 d.</p>
+            <pb n="19" facs="tcp:206303:10"/>
+            <p>About the 1st Moneth, 1676. Taken from <hi>Samuel Boulton,</hi> by virtue of a Warrant granted to <hi>John Williams</hi> Priest of the Parish of <hi>Mary Colechurch</hi> and <hi>Mildred Backchurch</hi> (so called) a Show-Glass with Goods in it to the value of 150 l. or there<g ref="char:EOLhyphen"/>abouts, which was carried to the Priest's House, but on Com<g ref="char:EOLhyphen"/>plaint was sent for to the Major's, the Glass broken open, the said <hi>Sam. Boulton</hi> not being present, and Goods taken out for the Demand 3 l. 9 s. the value not known to the said <hi>Samuel Boulton,</hi> and the Glass sent back open by the Major's Officers; the Persons that took the Goods not remembred.</p>
+            <p>The 9th of the 3d Moneth, 1676. Taken from <hi>Thomas Baker,</hi> a Butcher in <hi>Eastcheap,</hi> by virtue of a Warrant granted to <hi>Elkenton Downes</hi> Priest of the Parish, Ten Stone and One Pound of Beef, valued at 20 s. 3 d. for 14 s. 4 d. demanded, by <hi>William King</hi> Collector and <hi>Robert Evans</hi> Constable, for one year's Tythes.</p>
+            <p>The 24th of the 3d Moneth, 1676. Taken from <hi>Simon Marshal</hi> of the Parish of <hi>Ann Blackfriers,</hi> Shoemaker, by vir<g ref="char:EOLhyphen"/>tue of a Warrant granted to <hi>John Stoneing</hi> Priest, four pair of men's Shoes valued at 16 s. for 3 s. 10 d. demanded; taken by <hi>John Haile</hi> Clerk of <hi>Ludgate,</hi> and <hi>William Walker</hi> Consta<g ref="char:EOLhyphen"/>ble.</p>
+            <p>Taken from <hi>Thomas Hooton</hi> of the Parish of <hi>Ann Blackfriers,</hi> Chandler, three Cheshire Cheeses valued at 13 s. for 5 s. de<g ref="char:EOLhyphen"/>manded, by virtue of a Warrant granted to the Priest above<g ref="char:EOLhyphen"/>said, and taken by the Persons above-said.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Returned</cell>
+                     <cell>10 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Taken from <hi>Mark Materham</hi> of <hi>Blackfriers</hi> Nineteen Pound Three Quarters of Pewter, valued at 14 s. 9 d. for 4 s. 2 d. demanded.</p>
+            <p>Taken from <hi>William Tileby</hi> of <hi>Blackfriers</hi> Brass and Pewter to the value of 1 l. 5 s. 6 d. for 3 s 4 d. demanded.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Returned</cell>
+                     <cell>4 s.</cell>
+                     <cell>5 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Taken from <hi>John Vaughton</hi> of <hi>Blackfriers,</hi> Thirty Pound
+<pb n="20" facs="tcp:206303:11"/> weight of Pewter, valued at 1 l. 2 s. 6 d. for 5 s. 8 d. de<g ref="char:EOLhyphen"/>manded.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Returned</cell>
+                     <cell>5 s.</cell>
+                     <cell>2 d. ob.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Taken from <hi>Henry Dogget</hi> one Piece of Callico o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 13 s. and one Piece of Fustian at 15 s. for 5 s. demanded.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Returned</cell>
+                     <cell>3 s.</cell>
+                     <cell>10 d</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Taken from <hi>William Walker</hi> a Coat and Breeches, valued at 1 l. 12 s. for 4 s. 2 d. Demanded.</p>
+            <p>All by virtue of a Warrant granted to the aforesaid Priest <hi>Stoneing,</hi> and taken by the aforesaid <hi>John Hail</hi> Clerk, and <hi>William Walker</hi> Constable.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Taken from the seven Persons before-men<g ref="char:EOLhyphen"/>tioned on the Account of Priest <hi>Stone<g ref="char:EOLhyphen"/>ing,</hi> Goods valued at</cell>
+                     <cell>7 l.</cell>
+                     <cell>11 s.</cell>
+                     <cell>9 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Demanded</cell>
+                     <cell>1 l.</cell>
+                     <cell>11 s.</cell>
+                     <cell>2 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Returned</cell>
+                     <cell>—</cell>
+                     <cell>14 s.</cell>
+                     <cell>3 d. ob.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>2 l.</cell>
+                     <cell>5 s.</cell>
+                     <cell>5 d. ob.</cell>
+                  </row>
+                  <row>
+                     <cell>Taken more than the real Demand</cell>
+                     <cell>5 l.</cell>
+                     <cell>6 s.</cell>
+                     <cell>3 d. ob.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The 27th of the 5th Moneth, 1676. Taken from <hi>Thomas Witchel</hi> of the Parish of <hi>Steven Colemanstreet,</hi> by virtue of a Warrant granted to <hi>Thomas Neast</hi> Vicar (so called) of the said Parish, Nine Pound of Thredd, valued at 1 l. 13 s. for 11 s. 1 d. demanded; taken by <hi>John Lance</hi> Collector, and <hi>William Walker</hi> Constable.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Returned</cell>
+                     <cell>1 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Taken from <hi>Job Boulton</hi> of the Parish of <hi>Edmund Lumbard<g ref="char:EOLhyphen"/>street,</hi> Goldsmith, by virtue of a Warrant granted to Do<g ref="char:EOLhyphen"/>ctor <hi>Bradford</hi> (so called) Priest of the said Parish, a Silver Salver, weighing Twenty Ounces and One d. w. valued at
+<pb n="21" facs="tcp:206303:11"/> 5 l. 5 s. 3 d. for 1 l. 17 s. 6 d. demanded; taken by <hi>Richard Elere</hi> his Coachman and a Constable, for a year and a quarters Tythes.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Returned</cell>
+                     <cell>2 l.</cell>
+                     <cell>17 s.</cell>
+                     <cell>8 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Taken from <hi>Robert Powel</hi> of the Parish of <hi>Leonard Fosterlane,</hi> by virtue of a Warrant granted to <hi>Edw. Sherun</hi> Priest of the said Pa<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ish, Forty Seven Pound and a half of Cheese, valued at 13 s. 10 d. for 10 s. demanded; taken by <hi>Henry Wiet</hi> Collect<g ref="char:EOLhyphen"/>or, and <hi>Riçhard Brown</hi> Constable.</p>
+            <p>The 12th of the 7th Moneth, 76. Taken from <hi>Richard Butcher</hi> of <hi>Martins le Grand,</hi> by virtue of a Warrant granted to <hi>Samuel Freeman</hi> Priest of <hi>Ann</hi> and <hi>Agnes</hi> Parish, four pair of Boddice, valued at 1 l. 4 s. for 15 s. demanded; taken by <hi>Henry Wyat</hi> Collector.</p>
+            <p>Taken from <hi>Thomas Cobb</hi> of the same Parish, by virtue of the same Warrant, fifty seven pound of Cheese, valued at 15 s. 4 d. for 8 s. demanded.</p>
+            <p>The 20th of the 8th Moneth, 76. Taken from <hi>John Osgood</hi> of <hi>Alhallows Lumbardstreet,</hi> by virtue of a Warrant granted to <hi>Aucher</hi> Priest of the said Parish, eight White Moores, valued at 6 l. 8 s. for 4 l. 6 s. 8 d. demanded; taken by <hi>Hugh Price</hi> Collector.</p>
+            <p>
+               <hi>Ditto Diem,</hi> Taken from <hi>Joseph Scott</hi> eight pieces of large Bra. Chints, valued at 2 l. 8 s. and a Cabbine Quilt at 14 s. also eight yards and a half of Tickin at 13 s. 7 d. taken in all 3 l. 15 s. 7 d. for the demands of 2 l. 12 s. 6 d.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Taken from the two above-mentioned Persons</cell>
+                     <cell>10 l.</cell>
+                     <cell>3 s.</cell>
+                     <cell>7 d.</cell>
+                  </row>
+                  <row>
+                     <cell>For the Demands of</cell>
+                     <cell>6 l.</cell>
+                     <cell>19 s.</cell>
+                     <cell>2 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Taken more than Demanded</cell>
+                     <cell>3 l.</cell>
+                     <cell>4 s.</cell>
+                     <cell>5 d.</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="account">
+            <pb n="22" facs="tcp:206303:12"/>
+            <head>An Account of Goods taken in the Year 1676, and 1677. by virtue of Warrants granted from <hi>Joseph Shelden</hi> Mayor.</head>
+            <p>THe 28th of the 9th Moneth, 1676. Taken from <hi>Simon Marshall</hi> of the Parish of <hi>Ann Blackfriers,</hi> by virtue of a Warrant granted to <hi>John Stoneing</hi> Priest of <hi>Blackfriers,</hi> four pair of Shoes, valued at 16 s. for 3 s. 10 d. demanded; taken by <hi>John Haile</hi> Clerk of the said Parish, and <hi>William Walker</hi> Constable.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Returned but</cell>
+                     <cell>7 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Taken from <hi>John Vaughton</hi> of the Parish afore-said, by vir<g ref="char:EOLhyphen"/>tue of the same Warrant, six Cheeses, weighing sixty four pound, valued at 16 s. for 5 s. 8 d. demanded.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Returned but</cell>
+                     <cell>11 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>And from <hi>William Walker</hi> a Petticoat, valued at 6 s. for 4 s. 2 d. demanded.</p>
+            <p>And from <hi>Richard Aldsworth</hi> thirty seven pound of old Che<g ref="char:EOLhyphen"/>shire Cheese; and the next day (contrary to Law) made a second Distress, and took ten pound more of Cheshire Cheese, in all forty seven pound, valued at 13 s. 8 d. and that for 5 s. de<g ref="char:EOLhyphen"/>manded.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>These four Persons above-mentioned were all seized by virtue of one Warrant granted to Priest <hi>Stoneing</hi> aforesaid, and had Goods taken from them valued at</cell>
+                     <cell>2 l.</cell>
+                     <cell>11 s.</cell>
+                     <cell>8 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Demanded but</cell>
+                     <cell>—</cell>
+                     <cell>18 s.</cell>
+                     <cell>8 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Returned</cell>
+                     <cell>—</cell>
+                     <cell>1 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Taken and detained more than the Value Demanded</cell>
+                     <cell>1 l.</cell>
+                     <cell>11 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="23" facs="tcp:206303:12"/>
+            <p>The 24th of the 12th Moneth 76. Taken from <hi>Thomas Robin<g ref="char:EOLhyphen"/>son</hi> of <hi>Fanchurch-street,</hi> by Virtue of the <hi>Major's</hi> Warrant, granted to <hi>George May</hi> the Priest (without summoning the aforesaid <hi>Tho. Robinson</hi>) for 13 s. 6 d. demanded, by <hi>John Smith</hi> the Parish Clerk, and <hi>Tho. Rouch</hi> Constable, two Look<g ref="char:EOLhyphen"/>ing-Glasses valued at 3 l. Returned one valued at 30 s. and kept the other.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Taken more then demanded</cell>
+                     <cell>16 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>The Priests Bill of the Goods taken from</hi> William Gibson.</p>
+            <p>
+               <hi>Dues to me from Mr.</hi> Gibson <hi>at</hi> Christmas <hi>last,</hi> 1677. <hi>for an House which he lives in, in St.</hi> Edmonds <hi>Parish,</hi> London.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>For a Year</hi>
+                     </cell>
+                     <cell>0 l.</cell>
+                     <cell>12 s.</cell>
+                     <cell>0d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For a Summons before the Mayor</hi>
+                     </cell>
+                     <cell>00.</cell>
+                     <cell>1 s.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For a Warrant</hi>
+                     </cell>
+                     <cell>00.</cell>
+                     <cell>2 s.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For Straining and Appraising</hi>
+                     </cell>
+                     <cell>00</cell>
+                     <cell>3 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sum total</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>18 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>Strained from him three ends of Fustians, whereof two were sold for</hi> 18 s. <hi>Returned him one end again in Specie. So that I want of my Dues</hi> 6 d.</p>
+            <p>
+               <hi>Note,</hi> That the two ends he sold cost 1 l. 4 s. the first Penny.</p>
+            <p>The 2d of the 1st Moneth 77. Taken from <hi>Thomas Harding,</hi> Box-maker, by virtue of a Warrant granted to <hi>Francis Thomp<g ref="char:EOLhyphen"/>son</hi> Rector of the Parish of <hi>Matthew Fryday-street,</hi> the Body of a Silver Tankard wt. 19 <hi>oz.</hi> 19 <hi>d.w.</hi> sold for 5 l. 1 s. 5 d. deman<g ref="char:EOLhyphen"/>ded 2 l. 2 s. 6 d. returned 2 l. 1 s. Taken by <hi>John Haile</hi> Col<g ref="char:EOLhyphen"/>lector, and <hi>John Stagg</hi> hired Constable.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Taken more than Demanded</cell>
+                     <cell>17 s.</cell>
+                     <cell>11 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>Note,</hi> This Tankard was not the Man's own, but taken in to be Burnished; of which the Priest was Informed, and there<g ref="char:EOLhyphen"/>upon promised to Return it, but did not.</p>
+            <pb n="24" facs="tcp:206303:13"/>
+            <p>About the 2d Moneth 77. Taken from <hi>Thomas Rudyard</hi> of <hi>George-yard,</hi> in <hi>Edmonds Lumbard-street</hi> Pa ish, by <hi>Richard Ellere,</hi> (Coachman and Tythe-gatherer to Dr. <hi>Bradford,</hi> so called, Priest of the said Parish) by virtue of a Warrant from <hi>J. Shelden</hi> Knight, then Mayor of <hi>London;</hi> One Alarum Pocket-Watch valued at 6 l. and one large Alarum Clock-Watch and Case of the value of 50 s. (and refusing to Appraise the same till carryed away) for the Demands of 3 l. 7 s. 6 d. for two Years and a quarters Tythes.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Goods taken, is</cell>
+                     <cell>8 l.</cell>
+                     <cell>10. s.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Demanded for Tythes</cell>
+                     <cell>3 l.</cell>
+                     <cell>7 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Returned</cell>
+                     <cell>—</cell>
+                     <cell>18 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Taken more then Demanded &amp; Returned</cell>
+                     <cell>4 l.</cell>
+                     <cell>4 s.</cell>
+                     <cell>—</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The 5th of the 5th Moneth 77. Taken from <hi>John Boulton</hi> of <hi>Ann</hi> and <hi>Agnes Alders-gate;</hi>
+               <list>
+                  <item>Eight <hi>Turky-Chairs,</hi>
+                  </item>
+                  <item>One <hi>Turky-Carpet,</hi>
+                  </item>
+                  <item>One <hi>pair of Sheets,</hi>
+                  </item>
+                  <item>One <hi>Looking-glass,</hi>
+                  </item>
+                  <item>One <hi>Silver Spoon,</hi>
+                  </item>
+                  <item>One <hi>Copper-Kettle,</hi>
+                  </item>
+                  <item>Two <hi>Brass Skillets,</hi>
+                  </item>
+                  <item>One <hi>Brass Paile,</hi>
+                  </item>
+                  <item>Five <hi>Brass Candlesticks,</hi>
+                  </item>
+                  <item>One <hi>Brass Fire-shovel</hi> and <hi>Tongs,</hi>
+                  </item>
+                  <item>Three <hi>Fire-Shovels,</hi>
+                  </item>
+                  <item>Two <hi>Forks,</hi>
+                  </item>
+                  <item>One <hi>pair of Tongs,</hi>
+                  </item>
+                  <item>One <hi>Brass Skimmer,</hi>
+                  </item>
+                  <item>One <hi>Pewter Stool-pan,</hi>
+                  </item>
+                  <item>One <hi>Pewter-Chamber-pot,</hi>
+                  </item>
+                  <item>One <hi>Bason and three Dishes,</hi>
+                  </item>
+                  <item>Four <hi>Plates</hi> and one <hi>Pye-plate,</hi>
+                  </item>
+                  <item>One <hi>Sawcer,</hi>
+                  </item>
+                  <item>One <hi>Flaggon,</hi>
+                  </item>
+                  <item>One <hi>Elbow-Chair,</hi>
+                  </item>
+                  <item>Three <hi>Imbroidered Stools,</hi>
+                  </item>
+                  <item>One <hi>pair of Dogs with Brass-Heads,</hi>
+                  </item>
+                  <item>One <hi>pair of Back-Andiorns,</hi>
+                  </item>
+                  <item>Two <hi>Spits,</hi>
+                  </item>
+                  <item>One <hi>Frying-pan.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>All which were valued at 10 l. And Distrained for 7 l. odd Money, by <hi>William Devol</hi> Constable, <hi>Henry Wyat</hi> the Priests Collector, and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+               <hi>Cowley</hi> the Beadle of the Liberty of <hi>Mar<g ref="char:EOLhyphen"/>tins le Grand,</hi> by virtue of a Warrant granted to <hi>Samuel Free<g ref="char:EOLhyphen"/>man</hi> Priest of the said Parish.</p>
+            <pb n="25" facs="tcp:206303:13"/>
+            <p>About the 20th of the 5th Moneth 77. Taken from <hi>Christo<g ref="char:EOLhyphen"/>pher Cheesman</hi> of <hi>Ludgate</hi>-Parish, by virtue of a Warrant gran<g ref="char:EOLhyphen"/>ted to <hi>Charles Smith</hi> Priest of the said Parish, one B<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ass Kettle weighed 15 l. three Pewter Dishes, two Pewter Plates, one Pewter Tankard, all valued at 1 l. 16 s.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Demanded but</cell>
+                     <cell>7 s.</cell>
+                  </row>
+                  <row>
+                     <cell>Returned but</cell>
+                     <cell>5 s.</cell>
+                  </row>
+                  <row>
+                     <cell>Taken more than Demanded 1 l.</cell>
+                     <cell>4 s.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>By <hi>William Best,</hi> the Priest's man, <hi>William Draper</hi> Con<g ref="char:EOLhyphen"/>stable, and <hi>Thomas Maico</hi> Porter.</p>
+            <p>The 17th of the 6th Moneth 77. Taken from <hi>Phillip Foord</hi> of <hi>Maryle Bow,</hi> by <hi>Samuel Browning</hi> Collector, and <hi>John Hollis</hi> Constable, by virtue of a Warrant granted to <hi>George Smallwood</hi> Priest of the said Parish, one piece of double Prunella, valued at
+<table>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>4 l.</cell>
+                     <cell>10 s.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">One piece of <hi>Baragon</hi> valued at</cell>
+                     <cell>2 l.</cell>
+                     <cell>10 s.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>7 l.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>Which two pieces of Stuff were sold to <hi>Simon Deacon</hi> Mercer, at</cell>
+                     <cell> </cell>
+                     <cell>4 l.</cell>
+                     <cell>10 s.</cell>
+                  </row>
+                  <row>
+                     <cell>The Priest's Demands were</cell>
+                     <cell>2 l.</cell>
+                     <cell>4 s.</cell>
+                     <cell>2 d.</cell>
+                  </row>
+                  <row>
+                     <cell cols="4">Their Bill is as followeth.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Paid Mr. Monk for a Warrant</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>6 s.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Summoning before the Mayor</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1 s.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Treating the Constable</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>2 s.</cell>
+                     <cell>4 d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Porteridge</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>00</cell>
+                     <cell>6 d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>My Seizure and Pains</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>3 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Returned</hi>
+                     </cell>
+                     <cell>1 l.</cell>
+                     <cell>12 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>4 l.</cell>
+                     <cell>10 s.</cell>
+                     <cell>00.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>About the 9th of the 6th Moneth 77. <hi>Thomas White</hi> Priest of the Parish call'd St. <hi>Mary Hill,</hi> having obtained a Warrant to Distrain on the Goods of <hi>Isaac Hemings,</hi> for 28 s. that he called his Due; <hi>Robert Evans</hi> Butcher in <hi>East-cheap</hi> Constable, and <hi>Joseph Taylor</hi> Ale-House-keeper, and the
+<pb n="26" facs="tcp:206303:14"/> Priest's Collector, came to the House of <hi>Isaac Hemings</hi> afore<g ref="char:EOLhyphen"/>said, who finding his Hatch shut, made Report thereof to the Priest aforesaid, who ordered them to go to <hi>Richard Halls</hi> a Shoemaker (his next Neighbour and Tenant) to make Distress on his Goods, promising them (as they reported) <hi>If it cost a Hundred Pound he would bear them cut in it;</hi> whereupon they came to the said <hi>Richard Halls</hi> Shop, and distrained Shoes valued at 2 l. 16 s. and sent him an Account, and praised his Goods at but 25 s.</p>
+            <p>The 9th of the 6th Moneth 77. Taken from <hi>Francis Moor</hi> (he and his Wife being from home) in <hi>Love Lane</hi> in <hi>Billings gate</hi> Ward, by <hi>Joseph Taylor</hi> of <hi>Buttolphs-lane</hi> an Alehouse-keeper, and the Priests Collector, by virtue of a Warrant (as they said) obtained from the Mayor of the City, by <hi>Thomas White</hi> Priest of <hi>Mary Hill</hi> Parish aforesaid; the above-said <hi>Joseph Taylor,</hi> with a Porter and two others, Distrained twenty nine Dozen of course Stockings, which cost
+<table>
+                  <row>
+                     <cell> </cell>
+                     <cell>9 l.</cell>
+                     <cell>5 s.</cell>
+                     <cell>4 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Demanded</cell>
+                     <cell>3 l.</cell>
+                     <cell>10 s.</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Which Goods were praised by <hi>Charles Price</hi> and <hi>John Har<g ref="char:EOLhyphen"/>wood</hi> at 5 l. 2 s. But no Returns made; though 1 l. 12 s. according as they praised them remained.</p>
+            <p>The 7th of the 7th Moneth 77. Taken from <hi>Mary Foster,</hi> by virtue of a Warrant granted to <hi>John Aucher</hi> Priest of the Pa<g ref="char:EOLhyphen"/>rish of <hi>Alhallows Lumbard-street</hi> against <hi>Gerrard Roberts</hi> for Tythes, (she dwelling in part of the House) Forty three yards of Silk Say, which cost
+<table>
+                  <row>
+                     <cell> </cell>
+                     <cell>3 l.</cell>
+                     <cell>14. s</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Demanded</cell>
+                     <cell>—</cell>
+                     <cell>13 s.</cell>
+                     <cell>4 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Returned</cell>
+                     <cell>1 l.</cell>
+                     <cell>9 s.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>2 l.</cell>
+                     <cell>2 s.</cell>
+                     <cell>4 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Which Goods c<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>me to more then was Demanded and Returned</cell>
+                     <cell>1 l.</cell>
+                     <cell>11 s.</cell>
+                     <cell>8 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>Ditto Diem.</hi> Taken from <hi>Thomas Cobb,</hi> by virtue of a Warrant granted to <hi>Samuel Freeman</hi> Priest of the Parish of <hi>Ann</hi> and <hi>Agnes Aldersgate,</hi> by <hi>Henry Wyat</hi> Collector, <hi>William Devall</hi>
+               <pb n="27" facs="tcp:206303:14"/> Constable, six Cheeses, weight seventy eight Pound, at 5 d. 1 q. per pound comes to
+<table>
+                  <row>
+                     <cell> </cell>
+                     <cell>1 l.</cell>
+                     <cell>2 s.</cell>
+                     <cell>9 d.</cell>
+                     <cell>1 ob.</cell>
+                  </row>
+                  <row>
+                     <cell>Demanded</cell>
+                     <cell>—</cell>
+                     <cell>8 s.</cell>
+                     <cell cols="2">—</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Returned thirteen pound one half of Cheese which at ditto price is</cell>
+                     <cell>3 s.</cell>
+                     <cell>11 d.</cell>
+                     <cell>1 q.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>11 s.</cell>
+                     <cell>11 d.</cell>
+                     <cell>1 q.</cell>
+                  </row>
+                  <row>
+                     <cell>Taken more then demanded</cell>
+                     <cell> </cell>
+                     <cell>10 s.</cell>
+                     <cell>9 d.</cell>
+                     <cell>3 q.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The 12th of the 7th Moneth 77. Taken from <hi>William Tileby</hi> of <hi>Black-fryars</hi> by virtue of a Warrant granted to <hi>John Stone<g ref="char:EOLhyphen"/>ning</hi> Priest of the said Parish, several things vallued at 10 s. for 5 s. demanded, by <hi>Francis Craford</hi> and <hi>John Stringer</hi> Con<g ref="char:EOLhyphen"/>stable.</p>
+            <p>The 12th of the 7th Moneth 77. Taken from <hi>Richard Hawkes</hi> of the Parish of <hi>Anne Black fryars,</hi> seven Yards of Serge, at 2 s. 2 d. per Yard, comes to 15 s. 2 d. by <hi>George Stringer</hi> Constable, and <hi>Francis Craford</hi> Destrainer for <hi>John Stoneing</hi> Priest, for 6 s. 3 d. demanded.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Returned when they brought in a Bill of Charges</cell>
+                     <cell>2 s.</cell>
+                     <cell>9 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Returned and taken</cell>
+                     <cell>9 s.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Remains</cell>
+                     <cell>6 s.</cell>
+                     <cell>2 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The 12th of the 7th Moneth 77. Taken from <hi>Henry Dog<g ref="char:EOLhyphen"/>git</hi> of the Parish aforesaid, thirteen Yards of Callico which cost
+<table>
+                  <row>
+                     <cell>10 s.</cell>
+                     <cell>10 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>And one piece of White Callico seventeen Yards long, which cost</cell>
+                     <cell>—</cell>
+                     <cell>13 s.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>1 l.</cell>
+                     <cell>3s.</cell>
+                     <cell>10 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>By <hi>George Stringer</hi> Constable, and <hi>John Craford</hi> Destrainer, for <hi>John Stoneing</hi> Priest for 8 s. 8 d. demanded.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell cols="2">Taken and Detained more then the vallue Demanded</cell>
+                     <cell>15 s.</cell>
+                     <cell>10 d.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">No Returns.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>The 12th of the 7th Moneth. Taken from <hi>Simon Marshall</hi>
+               <pb n="28" facs="tcp:206303:15"/> of the Parish aforesaid, three pair of mens Shoes, vallued at 12 s. by <hi>George Stringer</hi> and <hi>John Craford</hi> aforesaid, for <hi>John Stoneing</hi> Priest of the Parish aforesaid, for 3 s. 10 d. demanded.</p>
+            <p>The 13th of the 7th Moneth. Taken from <hi>Richard Butcher</hi> of the Parish of <hi>Ann</hi> and <hi>Agnes Aldersgate</hi> forty pound weight of Pewter vallued at 30 s. by <hi>Henry Wyat</hi> Collector, and <hi>Wil<g ref="char:EOLhyphen"/>liam Devall</hi> Constable, for <hi>Samuel Freeman</hi> Priest of the Parish aforesaid.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Demanded</cell>
+                     <cell>14 s.</cell>
+                     <cell>10 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The 18th of the 7th Moneth 77. Taken from <hi>John Osgood</hi> of the Parish of <hi>Alhallows Lumbardstreet,</hi> by <hi>Hugh Price</hi> and one <hi>Jesse</hi> a Constable, Goods for one Years Tythes, due by their Account at <hi>Midsummer</hi> last, for <hi>John Aucher</hi> Priest of the aforesaid Parish.</p>
+            <p>The 21th of the 7th Moneth 77. Taken from <hi>Elizabeth Scot</hi> Widow, of the Parish aforesaid, Goods to the value of 35 s. by <hi>Hugh Price,</hi> for the aforesaid <hi>John Aucher</hi> Priest for 10 s. demanded.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Returned</cell>
+                     <cell>3 s.</cell>
+                  </row>
+                  <row>
+                     <cell>Taken more then Demanded and Returned</cell>
+                     <cell>22 s.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The 24th of the 7th Moneth. Taken from <hi>John Vaughton</hi> of the Parish of <hi>Ann Black-fryars,</hi> twenty four Deal Boards worth 24 s. by <hi>Francis Croft,</hi> and <hi>George Stringer</hi> Constable, for <hi>John Stoneing</hi> Priest, for 8 s. 6 d. demanded.</p>
+            <p>Returned afterwards one Deal Board and one Penney.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Taken more then Demanded and Returned about</cell>
+                     <cell>15 s.</cell>
+                     <cell>11 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The 27th of the 8th Moneth 77. Taken from <hi>Walter Hoare</hi> Tallow-Chandler, for Tythes by <hi>Andrew Crispe</hi> Priest of the Parish of <hi>Mary Woolnorth</hi> in <hi>Lumbard-street,</hi> for 2 l. 16 s. de<g ref="char:EOLhyphen"/>manded,
+<pb n="29" facs="tcp:206303:15"/> Forty Seven Pound of Pewter, most small Plates, and Six Dozen of Candles, the whole then worth 3 l. 14 s.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Valued at</cell>
+                     <cell>2 l.</cell>
+                     <cell>12 s.</cell>
+                     <cell>10 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>Samuel Jermam</hi> Collector, <hi>Theo. Dorinton</hi> Constable.</p>
+            <p>The 12th Moneth 1676. Taken from <hi>Samuel Boulton</hi> of <hi>Cheap<g ref="char:EOLhyphen"/>side,</hi> Goldsmith, by virtue of a Warrant granted to <hi>Joh. Williams</hi> Priest of the Parishes of <hi>Mary Coalechurch</hi> &amp; <hi>Mildred Back<g ref="char:EOLhyphen"/>church,</hi> so call'd, for ten or eleaven moneths Tythes, at 2 l. 6 s. the year, near about 3 l. 5 s.</p>
+         </div>
+         <div type="account">
+            <head>An Account of Goods taken in the Year 1677, and 1678. by virtue of Warrants granted from <hi>Francis Chapline</hi> Mayor.</head>
+            <p>THe 16th or 17th of the 10th Mon. 77. taken from <hi>Joh. Day,</hi> Carpenter, in <hi>Distaff-lane</hi> in the Parish of <hi>Nicholas Coleab<g ref="char:EOLhyphen"/>by,</hi> by <hi>John Hill</hi> Serjant, with the Constable, for—<hi>Meriton,</hi> Priest of the Parish aforesaid, for 1 l. demanded for Tythes, as followeth.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Five <hi>Large Pewter Dishes,</hi> valued at</cell>
+                     <cell>1.</cell>
+                     <cell>4.</cell>
+                     <cell>0.</cell>
+                  </row>
+                  <row>
+                     <cell>One <hi>Pye-Plate of Pewter</hi> at</cell>
+                     <cell>0.</cell>
+                     <cell>1.</cell>
+                     <cell>6.</cell>
+                  </row>
+                  <row>
+                     <cell>Six <hi>New Pewter-Plates</hi> that cost</cell>
+                     <cell>0.</cell>
+                     <cell>6.</cell>
+                     <cell>0.</cell>
+                  </row>
+                  <row>
+                     <cell>One <hi>New Three-pint Pewter-Pot</hi> that cost</cell>
+                     <cell>0.</cell>
+                     <cell>2.</cell>
+                     <cell>6.</cell>
+                  </row>
+                  <row>
+                     <cell>One <hi>Pewter Salt</hi> at</cell>
+                     <cell>0.</cell>
+                     <cell>1.</cell>
+                     <cell>2.</cell>
+                  </row>
+                  <row>
+                     <cell>Five <hi>Pewter-Pottingers</hi> at</cell>
+                     <cell>0.</cell>
+                     <cell>4.</cell>
+                     <cell>0.</cell>
+                  </row>
+                  <row>
+                     <cell>One <hi>Brass-Collender new,</hi> that cost</cell>
+                     <cell>0.</cell>
+                     <cell>2.</cell>
+                     <cell>9.</cell>
+                  </row>
+                  <row>
+                     <cell>In all</cell>
+                     <cell>2 l.</cell>
+                     <cell>1 s.</cell>
+                     <cell>11 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Demanded</cell>
+                     <cell>1 l.</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Taken more then demanded</cell>
+                     <cell>1 l.</cell>
+                     <cell>1 s.</cell>
+                     <cell>11 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="30" facs="tcp:206303:16"/>
+            <p>The 26th of the 12th Mon. 77. Taken from <hi>Thomas Rudyard</hi> by <hi>Richard Ellere,</hi> Coachman &amp; Tythe-gatherer to Dr. <hi>Bradford,</hi> so called, in absence of the said <hi>Tho. Rudyard,</hi> by colour of Warrant from <hi>Thomas Davis</hi> Mayor, <hi>&amp;c.</hi> to Dr. <hi>Bradford</hi> Priest of <hi>Edmunds Lumbard-street,</hi> for or on pretence of one years Tythes, one Hair Chamblet Cloak lin'd with Shaloone, and one new Cloth Coat lined with friezed Bayes.</p>
+            <p>Their Account is as followeth.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>Tythes</hi>
+                     </cell>
+                     <cell>1 <hi>l</hi>
+                     </cell>
+                     <cell>10 <hi>s.</hi>
+                     </cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Summons</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>01 <hi>s.</hi>
+                     </cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Warrant</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>02 <hi>s.</hi>
+                     </cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Straining and Appraising</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>03 <hi>s.</hi>
+                     </cell>
+                     <cell>6 <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>1 <hi>l.</hi>
+                     </cell>
+                     <cell>16 <hi>s.</hi>
+                     </cell>
+                     <cell>06 <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Cloak and Coat sold</cell>
+                     <cell>1 <hi>l.</hi>
+                     </cell>
+                     <cell>17 <hi>s.</hi>
+                     </cell>
+                     <cell>06 <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Returned</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>06 <hi>d.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Which is 6 d. short of their own Accompt.</p>
+            <p>The 5th of the 1st Moneth, 1678. Taken from <hi>Job Boulton</hi> of <hi>Edmonds Lumbard-street,</hi> by Virtue of a Warrant granted to Dr. <hi>Bradford</hi> Priest of the said Parish, one Silver Cup, weight 8<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 12 d wt. Sold at 2 l. 4 s. 4 d. Returned 7 s. 1 d. Taken by <hi>Richard Ellere</hi> the Priest's Coach-man.</p>
+            <p>The 23d of the 2d Moneth 78. Taken from <hi>William Crouch,</hi> by virtue of a Warrant granted from <hi>Francis Chapline</hi> Mayor to <hi>Henry Halsteed</hi> Priest of <hi>Benet Grace-Church,</hi> by <hi>William Ston<g ref="char:EOLhyphen"/>yard</hi> of <hi>Thredneedle-street</hi> Coffee-House-keeper, and the Clerk of the Parish of <hi>Bennet Fynck Threedneedle-street,</hi> and hired Con<g ref="char:EOLhyphen"/>stable, and <hi>John Jesse</hi> who keeps an Ale-house in <hi>Ball-Ally</hi> in <hi>Lumbard-street,</hi> Seven pieces of Stuff worth 13 l. 6 s.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Which they Appraised but at</cell>
+                     <cell>11 l.</cell>
+                     <cell>15 s.</cell>
+                     <cell>4 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Returned</cell>
+                     <cell>03 l.</cell>
+                     <cell>18 s.</cell>
+                     <cell>2 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Demanded</cell>
+                     <cell>05 l.</cell>
+                     <cell>17 s.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Charges for Distress</cell>
+                     <cell>—</cell>
+                     <cell>19 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Taken more then the Demands, Distress and Returns come to</cell>
+                     <cell>02 l.</cell>
+                     <cell>11 s.</cell>
+                     <cell>4 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="31" facs="tcp:206303:16"/>
+            <p>The 1st of the 3d Moneth 78. Taken from <hi>Thomas Mardin</hi> Tinn-man of the Parish of <hi>Michael Crooked-Lane</hi> by <hi>John Bur<g ref="char:EOLhyphen"/>ten</hi> Collector, and <hi>William Stone</hi> Constable, One Barrel of Plates, which cost of the Merchant 4 l. 10 s. for the Demand of 1 l. 13 s. 9 d. for two Years and a quarters Tythes, for <hi>Richard Person</hi> Priest of the aforesaid Parish.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Taken more then Demanded</cell>
+                     <cell>2 l.</cell>
+                     <cell>16s.</cell>
+                     <cell>3 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The 23d of the 3d Moneth 78. Taken from <hi>Matthew Roper</hi> of <hi>Talbut-Court,</hi> by virtue of ditto Warrant granted to the a<g ref="char:EOLhyphen"/>foresaid <hi>Henry Halsteed,</hi> by the aforesaid Clerk and Con<g ref="char:EOLhyphen"/>stable <hi>John Jesse</hi> and <hi>Will. Stoner,</hi>
+               <table>
+                  <row>
+                     <cell>One Beam</cell>
+                     <cell>0 l.</cell>
+                     <cell>14 s.</cell>
+                     <cell>06 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Eight Thousand and a half of 10 d Brads</cell>
+                     <cell>1 l.</cell>
+                     <cell>14 s.</cell>
+                     <cell>10 d.</cell>
+                  </row>
+                  <row>
+                     <cell>One half Barrel</cell>
+                     <cell>0 l.</cell>
+                     <cell>01 s.</cell>
+                     <cell>04 d.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>2 l.</cell>
+                     <cell>10 s.</cell>
+                     <cell>08 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Taken also from <hi>John Hubbock</hi> of the same place, by the same Warrant and Persons, and for the same Priest</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Sixty one Yards of Tick at 1 s. 8 d. per Yard</cell>
+                     <cell>5 l.</cell>
+                     <cell>1 s.</cell>
+                     <cell>8 d.</cell>
+                  </row>
+                  <row>
+                     <cell>One Flanders Bed-Tick</cell>
+                     <cell>1 l.</cell>
+                     <cell>6 s.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>One Quilt</cell>
+                     <cell>1 l.</cell>
+                     <cell>7 s.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>One Cradle-Quilt</cell>
+                     <cell>—</cell>
+                     <cell>6 s.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Together</cell>
+                     <cell>10 l.</cell>
+                     <cell>11 s.</cell>
+                     <cell>4 d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Tythes Demanded of both</hi>
+                     </cell>
+                     <cell>2 <hi>l.</hi>
+                     </cell>
+                     <cell>16 <hi>s.</hi>
+                     </cell>
+                     <cell>03 <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charges reckoned for Distress</hi>
+                     </cell>
+                     <cell>1 <hi>l.</hi>
+                     </cell>
+                     <cell>19 <hi>s.</hi>
+                     </cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Money Returned to</hi> John Hubbock</cell>
+                     <cell>2 <hi>l.</hi>
+                     </cell>
+                     <cell>12 <hi>s.</hi>
+                     </cell>
+                     <cell>11 <hi>d</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Taken more than Demanded or Returned</cell>
+                     <cell>3 l.</cell>
+                     <cell>3 s.</cell>
+                     <cell>2 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="32" facs="tcp:206303:17"/>
+            <p>The 5th of the 4th Moneth 78. Taken from <hi>James Smith</hi> of <hi>Rude-Lane,</hi> Taylor, in <hi>Dionis Back-church</hi> Parish, by virtue of a Warrant from the aforesaid Mayor, for <hi>George May</hi> Priest of the said Parish, by <hi>John Jesse</hi> Collector, and <hi>William Stonire</hi> Constable, for 1 l. 5 s. Tythes Demanded, <hi>viz.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Two <hi>Brass-Candle-sticks</hi> valued at</cell>
+                     <cell>0 l.</cell>
+                     <cell>08 s.</cell>
+                     <cell>0 d.</cell>
+                  </row>
+                  <row>
+                     <cell>One <hi>Brass Save-all</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>8 d.</cell>
+                  </row>
+                  <row>
+                     <cell>One <hi>Silver-Taster</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>02 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Six <hi>Holland Shirts</hi>
+                     </cell>
+                     <cell>1 l.</cell>
+                     <cell>04 s.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Three <hi>course holland Shirts</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>10 s.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Six <hi>Napkins</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>04 s.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>One <hi>Table-Cloth</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>02 s.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>One <hi>Sheet</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>03 s.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>One <hi>Pair of Old Drawers</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>01 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+                  <row>
+                     <cell>One <hi>new Fustian Wastcoat</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>04 s.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>One <hi>Brass Chasing-dish</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>02 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+                  <row>
+                     <cell>One <hi>Callico Coverlid</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>02 s.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>In all</cell>
+                     <cell>3 l.</cell>
+                     <cell>4 s.</cell>
+                     <cell>2 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Which Goods were praysed at but</cell>
+                     <cell>2 l.</cell>
+                     <cell>7 s.</cell>
+                     <cell>1 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The 5th of the 4th Moneth 78. Taken from <hi>Thomas Robinson</hi> of <hi>Fenchurch-street,</hi> by virtue of a Warrant from the said Mayor, by the aforesaid Persons for the Priest of <hi>Back-Church,</hi> aforesaid, for 5 s. 4 d. Demanded for Tythes, Goods to the value of 2 l. 14 s.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell cols="2">Returned</cell>
+                     <cell>11 s.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Demanded</cell>
+                     <cell>05 s.</cell>
+                     <cell>04 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Taken more then Demanded and Returned</cell>
+                     <cell>1 l.</cell>
+                     <cell>17 s.</cell>
+                     <cell>8 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Note, <hi>That the abovesaid Priest and them that did his Work re<g ref="char:EOLhyphen"/>turned a Bill of Charges, in which they signified, there was</hi> 1 <hi>s.</hi> 2<hi>d. to be returned, which being laid before</hi> Francis Chapline <hi>then Mayor,
+<pb n="33" facs="tcp:206303:17"/> he openly rebuked the said</hi> George May <hi>Priest,</hi>
+               <note place="margin">Although the Mayor had charged them beforehand, <hi>Not to take too much,</hi> yet they regarded it not.</note>
+               <hi>and would have had the man that so Ʋnreasonably Took &amp; Detained the aforesaid</hi> Thomas Robinson<hi>'s Goods bound over to the</hi> Sessions, <hi>but the said</hi> Tho. Robin<g ref="char:EOLhyphen"/>son <hi>answered,</hi> I commit my Cause unto the Lord, who said, <hi>Vengeance is mine, and I will Re-pay it. So after this they re<g ref="char:EOLhyphen"/>turned</hi> 11 <hi>s. which is</hi> 1 <hi>l.</hi> 17 <hi>s.</hi> 8 <hi>d. more than their Demands.</hi>
+            </p>
+            <p>The 1st of the 5th Moneth 78. Taken from <hi>Richard Butcher</hi> of <hi>Anne Aldersgate</hi> Parish, for 15 s. for a Year's Tythes, by <hi>Henry Wyat</hi> Collector, and <hi>Thomas Warren</hi> Constable, by vir<g ref="char:EOLhyphen"/>tue of a Warrant granted to <hi>Samuel Freeman,</hi> Priest of the Parish aforesaid, these Goods following:
+<table>
+                  <row>
+                     <cell rows="6">One pair of</cell>
+                     <cell>
+                        <hi>Cheney Bodice in Silk</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>12 s.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Red-Cheney in Thred</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>08 s.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mantain Thred</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>12 s.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Parragan in Thred</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>08 s.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Skie-Cheney in Silk</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>12 s.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Green Parragan in Thred</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>08 s.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>3 l.</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Demanded</cell>
+                     <cell>—</cell>
+                     <cell>15 s.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Charges</cell>
+                     <cell>—</cell>
+                     <cell>06 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Taken more then the Charges and Demands And yet made no Returns.</cell>
+                     <cell>1 l.</cell>
+                     <cell>18 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Note, <hi>These Goods were praised by</hi> Norris Finch <hi>of the same Pa<g ref="char:EOLhyphen"/>rish at</hi> 1 l. 6 d. <hi>and bought by</hi> Henry Wyat <hi>the Priest's Col<g ref="char:EOLhyphen"/>lector of the said Parish also.</hi>
+            </p>
+            <p>The 1st of the 5th moneth 78. Taken from <hi>Thomas Cobb</hi> of <hi>Anne</hi> &amp; <hi>Agnes</hi> Parish by virtue of a Warrant granted to <hi>Samuell
+<pb n="34" facs="tcp:206303:18"/> Freeman</hi> Priest of the said Parish, seven Cheeses, weight three quarters and ten pound, at 3 d. per pound is 1 l. 3 s. 6 d. for 8 s. demanded. Taken by <hi>Thomas Warren</hi> Constable, and <hi>Henry Wyat</hi> Collector.</p>
+            <p>The 2d of the 5th Moneth 78. Taken from <hi>John Tyso</hi> by the same Warrant and same Persons, and for the same Priest, for 17 s. demanded Eleaven pair of New Shoes, valued at 1 l. 18 s. 6 d.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Taken more then demanded</cell>
+                     <cell>1 l.</cell>
+                     <cell>1 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+                  <row>
+                     <cell>And made no Returns.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>The 23d of the 6th Moneth, 78. Taken from <hi>Samuel Streater</hi> for 19 s. 6 d. demanded for three Quarters Tythes, by virtue of a Warrant granted to <hi>Edward Fowler</hi> Priest of <hi>Alhallows Bread street,</hi> 2 pieces of Sacking, valued at 1 l. 10 s. being 10 s. 6 d. more then demanded.</p>
+            <p>About the 7th of the 7th Moneth, 78. Taken by <hi>Middleton Smith</hi> Constable, and <hi>Francis Finch</hi> Clerk from <hi>John Newton</hi> of the Parish of <hi>Martins Orgars,</hi> by virtue of a Warrant granted by <hi>Francis Chapline</hi> Mayor, to <hi>John Sherid</hi> Priest of the afore<g ref="char:EOLhyphen"/>said Parish, for 16 s. 10 d. demanded, Goods to the value of 1 l. 14 s. being 17 s. 2 d. more then demanded.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Demanded</cell>
+                     <cell>8 s.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Returned</cell>
+                     <cell>7 s.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Taken more then Demanded and Returned</cell>
+                     <cell>8 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The 16th of the 7th Moneth, 78. Taken from <hi>Francis Moor</hi> of <hi>Love-Lane</hi> in the Parish of <hi>Mary Hill,</hi> by virtue of a War<g ref="char:EOLhyphen"/>rant granted to <hi>Thomas White</hi> Priest of the said Parish, by <hi>Joseph Taylor</hi> Ale-house-keeper in <hi>Buttolphs Lane,</hi> and the Priests Tythe-gatherer, and <hi>John Harwood</hi> Constable of <hi>Michael</hi>'s Parish, one Silver Caudle-Cup, weighing 8 oz. 3 d wt. and sold for 2 l. 1 s. 6 d. out of which they took 1 l. for the Priest, and 11 s. 4 d. for Charges, and returned 10 s. 2 d.</p>
+            <p>The 9th of the 8th Moneth, 78. Taken from <hi>Jasper Robins</hi> of <hi>Dunstans</hi> in the <hi>East</hi> Parish, Cheefe-monger, by virtue of a Warrant granted to <hi>Geo. Gifford</hi> Priest of the said Parish, from
+<pb n="35" facs="tcp:206303:18"/>
+               <hi>Francis Chapline</hi> Mayor, by <hi>Robert Plum</hi> Constable, and <hi>George Kent</hi> Parish-Clerk, three Hundred and seven pound of Cheese really worth 3 l. 13 s. 6 d. for 1 l. 16 s. 8 d. demanded
+<table>
+                  <row>
+                     <cell>Returned by the Clerk</cell>
+                     <cell> </cell>
+                     <cell>10 s.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Taken more than Demanded</cell>
+                     <cell>1 l.</cell>
+                     <cell>6 s.</cell>
+                     <cell>10 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The 9th of the 8th Moneth 78. Taken from <hi>Job Boulton</hi> of <hi>Lumbard-street</hi> Goldsmith, by <hi>Richard Ellere</hi> Coach man and Tythe-Gatherer to Dr. <hi>Bradford</hi> (so called) Priest of the said Parish, two Twenty Shilling Pieces at 2 l. 7 s. for 1 l. 10 s. demanded for one Years Tythes.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Returned</cell>
+                     <cell>13 s.</cell>
+                     <cell>4 d.</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="account">
+            <head>An Account of Goods taken in the Year 1678, and 1679. by virtue of Warrants granted from <hi>James Edwards</hi> Mayor.</head>
+            <p>THe 8th of the 1st moneth 1679. taken from <hi>William Chandler</hi> by virtue of a Warrant granted to <hi>David Barton</hi> Priest of the Parish of <hi>Margaret New-Fish-street</hi> fifty five couple of — Fish, to the value of 4 l. 5 s. or more, for 2 l. 17 s. 8 d. de<g ref="char:EOLhyphen"/>manded, and Charges
+<table>
+                  <row>
+                     <cell> </cell>
+                     <cell>1 l.</cell>
+                     <cell>—</cell>
+                     <cell>6 d.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>3 l.</cell>
+                     <cell>18 s.</cell>
+                     <cell>2 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Appraised by them but at</cell>
+                     <cell>3 l.</cell>
+                     <cell>15. s.</cell>
+                     <cell>0 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Taken by <hi>John Jesse</hi> Constable.</p>
+            <p>The 10th of the 1st moneth 70. Taken from <hi>William Gibson</hi> of <hi>Edmunds Lumbard-street</hi> by virtue of a Warrant granted to
+<pb n="36" facs="tcp:206303:19"/> Doctor <hi>Bradford</hi> (so called) Priest of the said Parish, for the demand of 12 s. for one years Tythes, two ends of <hi>Fustian</hi> cost 16 s. per End; taken by <hi>Robert Carpenter</hi> Constable, and <hi>Rich<g ref="char:EOLhyphen"/>ard Ellere</hi> the Priests Coachman.</p>
+            <p>Sent back one End of Fustian and 4 d.</p>
+            <p>The 12th of the 1st moneth, 79. Taken from <hi>Thomas Pax<g ref="char:EOLunhyphen"/>ton,</hi> by virtue of a Warrant granted to <hi>David Barton</hi> Priest of <hi>Margret New Fishstreet,</hi> forty Couple of made North-Sea-Codd, worth
+<table>
+                  <row>
+                     <cell> </cell>
+                     <cell>5 l.</cell>
+                     <cell>14 s.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Praised by them at but 2 s. 3 d. per Couple is</cell>
+                     <cell>4 l.</cell>
+                     <cell>10 s.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>For four years Tythes reckoned to</cell>
+                     <cell>4 l.</cell>
+                     <cell> </cell>
+                     <cell>8 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Charges reckoned</cell>
+                     <cell>1 l.</cell>
+                     <cell> </cell>
+                     <cell>6 d.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>5 l.</cell>
+                     <cell>1 s.</cell>
+                     <cell>2 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Due to the Priest according to his own Account</cell>
+                     <cell> </cell>
+                     <cell>11 s.</cell>
+                     <cell>2 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Taken by <hi>John Jesse</hi> Constable.</p>
+            <p>The 28th of the 1st moneth, 79. Taken from <hi>Josiah Bacon,</hi> by virtue of a Warrant granted to <hi>Richard Owen</hi> Priest of the two united Parishes of <hi>Swithin</hi> and <hi>Mary Bothaw,</hi> one Tank<g ref="char:EOLhyphen"/>ard of Silver, appraised at 4 s. 8 d. per ounce, weight twenty five ounces, came to
+<table>
+                  <row>
+                     <cell> </cell>
+                     <cell>5 l.</cell>
+                     <cell>16 s.</cell>
+                     <cell>8 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Due for three years Tythes, as he accounts,</cell>
+                     <cell>3 l.</cell>
+                     <cell>06 s.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>For Distraint and Charges</cell>
+                     <cell> </cell>
+                     <cell>15 s.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Returned</cell>
+                     <cell>1 l.</cell>
+                     <cell>15 s.</cell>
+                     <cell>8 d.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>5 l.</cell>
+                     <cell>16 s.</cell>
+                     <cell>8 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Taken from <hi>George Bradford</hi> Glasier of the Parish above<g ref="char:EOLhyphen"/>mentioned, by the Priest aforesaid (he being a poor man, and
+<pb n="37" facs="tcp:206303:19"/> his Wife near her Time) Child-bed and other small Linnen ap<g ref="char:EOLhyphen"/>praised to
+<table>
+                  <row>
+                     <cell> </cell>
+                     <cell>3 l.</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>For two years three quarters Tythes, valued at</cell>
+                     <cell>1 l.</cell>
+                     <cell>2 s.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Charges</cell>
+                     <cell>—</cell>
+                     <cell>15 s.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Returned Goods to the value of</cell>
+                     <cell>1 l.</cell>
+                     <cell>2 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>2 l.</cell>
+                     <cell>19 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The 20th of the 3d Moneth, 1679. Taken from <hi>Daniel Quare</hi> of <hi>Martins le Grand,</hi> by virtue of a Warrant granted to <hi>Samuel Freeman,</hi> Priest of <hi>Ann</hi> &amp; <hi>Agnes</hi> Parish, two Clocks, valued at 5 l. appraised by <hi>Norris Finch</hi> at 3 l. 10 s. for three years and a halfe's Tythes demanded
+<table>
+                  <row>
+                     <cell> </cell>
+                     <cell>2 l.</cell>
+                     <cell>12 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Returned</cell>
+                     <cell>—</cell>
+                     <cell>10 s.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>3 l.</cell>
+                     <cell>02 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Taken by <hi>Henry Wyat</hi> Constable, and <hi>Francis Brown</hi> Officer to the Mayor.</p>
+            <p>The 20th of the 3d moneth, 1679. Taken from <hi>David Lloyd</hi> of the Parish of <hi>Ann</hi> and <hi>Agnes,</hi> by <hi>Henry Wyat</hi> Constable, and <hi>Francis Brown</hi> the Mayor's Officer, five Hats worth 3 l. 8 s. for the demand of 25 s. for Tythes for <hi>Samuel Freeman</hi> Priest of the aforesaid Parish.</p>
+            <p>The 20th of the 3d moneth, Taken from <hi>Thomas West</hi> of the Parish of <hi>Anne</hi> and <hi>Agnes,</hi> by <hi>Henry Wyat</hi> Constable, and <hi>Francis Browne</hi> Mayor's Officer, one Brass Kettle, weight twenty seven pound, at 15 d per pound, came to 1 l. 13 s. 9 d. for the Demand of half a years Tythes, which was 10 s. for <hi>Sam. Freeman</hi> Priest of the aforesaid Parish.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Taken from the two Persons above-mentioned Goods to the value of</cell>
+                     <cell>5 l.</cell>
+                     <cell>1 s.</cell>
+                     <cell>9 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Demanded</cell>
+                     <cell>1 l.</cell>
+                     <cell>15 s.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Taken more than Demanded</cell>
+                     <cell>3 l.</cell>
+                     <cell>6 s.</cell>
+                     <cell>9 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The 7th of the 5th moneth, Taken from <hi>John Day</hi> of the Pa<g ref="char:EOLhyphen"/>rish of <hi>Nicholas Coleabby,</hi> by <hi>Job Makepeace</hi> Constable and
+<pb n="38" facs="tcp:206303:20"/>
+               <hi>Nicholas White</hi> Clerk, the Priest being there present;
+<table>
+                  <row>
+                     <cell>Sixty six dry, large, clean, whole Deals at 15 d. per Deal, comes to</cell>
+                     <cell>4 l.</cell>
+                     <cell>2 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+                  <row>
+                     <cell>And four Slit Deals at 16 d. per Deal, is</cell>
+                     <cell>—</cell>
+                     <cell>5 s.</cell>
+                     <cell>4 d.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>4 l.</cell>
+                     <cell>7 s.</cell>
+                     <cell>10 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>For the Demand of 1 l. 10 s. for Tythes for one year and a half.</p>
+            <p>The 21th of the 5th moneth, 79. Taken from <hi>Samuel Streater,</hi> by virtue of a Warrant granted to <hi>Edward Fowler,</hi> Priest of <hi>Al<g ref="char:EOLhyphen"/>hallows Breadstreet,</hi> for one year and a quarter's Tythes,
+<table>
+                  <row>
+                     <cell>Five pieces of Sacking to the value of</cell>
+                     <cell>4 l.</cell>
+                     <cell>6 s.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Returned back two pieces of Sack<g ref="char:EOLhyphen"/>ing at</cell>
+                     <cell>1 l.</cell>
+                     <cell>14 s.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Returned back in Money</cell>
+                     <cell> </cell>
+                     <cell>6 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>2 l.</cell>
+                     <cell>—</cell>
+                     <cell>6 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Taken more than Demonded</cell>
+                     <cell>2 l.</cell>
+                     <cell>5 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The 18th of the 6th moneth, 1679. Taken from <hi>Thomas Hooton</hi> of the Parish of <hi>Ann Blackfriers,</hi> by <hi>Stephen Porter</hi> Constable and <hi>Philip Clements</hi> Collector, six Cheshire Cheeses, worth 1 l. 6 s. for the Demand of 20 s. Tythes, for <hi>John Stoneing</hi> Priest of the aforesaid Parish; no Return.</p>
+            <p>Taken from <hi>Simon Marshal</hi> of the Parish of <hi>Ann Blackfriers,</hi> by <hi>Stephen Porter</hi> Constable and <hi>Philip Clements</hi> Collector, six pair of Men's Shoes and one pair of Boots, worth 1 l. 10 s. for the Demand of 13 s. 4 d. Tythes, for <hi>John Stoning</hi> Priest of the aforesaid Parish.</p>
+            <p>One pair of Shoes Returned.</p>
+            <p>The 8th of the 6th moneth, 1679. Taken from <hi>William Walker</hi> of the Parish of <hi>Ann Blackfriers,</hi> by <hi>Stephen Porter</hi> Constable and <hi>Philip Clements</hi> Collector, seventeen yards three quarters of Shelcon, worth 1 l. 12 s. 6 d. for the Demand
+<pb n="39" facs="tcp:206303:20"/> of 1 l. 2 s. Tythes, for <hi>John Stoning</hi> Priest of the aforesaid Parish.</p>
+            <p>Returned Nothing.</p>
+            <p>Taken from <hi>Henry Dogget</hi> of the Parish of <hi>Ann Blackfriers,</hi> by <hi>Stephen Porter</hi> Constable and <hi>Philip Clements</hi> Collector, one piece of Long Cloth at sixteen yards three quarters, at 11 d. per yard, cometh to
+<table>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>15 s.</cell>
+                     <cell>4 d.</cell>
+                     <cell>1 q.</cell>
+                  </row>
+                  <row>
+                     <cell>One piece ditto at sixteen yards, three quarter, and two Nails, at 11 d. per yard, is</cell>
+                     <cell> </cell>
+                     <cell>15 s.</cell>
+                     <cell>5 d.</cell>
+                     <cell>1 q.</cell>
+                  </row>
+                  <row>
+                     <cell>In all</cell>
+                     <cell>1 l.</cell>
+                     <cell>10 s.</cell>
+                     <cell>9 d.</cell>
+                     <cell>2 q.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>For rhe Demand of 20 s. Tythes, for <hi>John Stoneing</hi> Priest of the aforesaid Parish.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>They Returned back again</cell>
+                     <cell>—</cell>
+                     <cell>1 s.</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Taken</cell>
+                     <cell>1 l.</cell>
+                     <cell>9 s.</cell>
+                     <cell>9 d.</cell>
+                     <cell>2 q.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Taken from <hi>William Tileby</hi> of the Parish of <hi>Ann Blackfriers,</hi> by <hi>Stephen Porter</hi> Constable and <hi>Philip Clements</hi> Collector, in Pewter seventeen pound weight, appraised at 11 s. 4 d. for 13 s. 4 d. demanded for Tythes for <hi>John Stoneing</hi> Priest of the aforesaid Parish.</p>
+            <p>The 6th of the 7th moneth, Taken from <hi>John Beckly</hi> of the Parish of <hi>Ann</hi> and <hi>Agnes,</hi> by <hi>Henry Wyat</hi> Constable and <hi>Francis Browne</hi> one of the Mayor's Officers, in Pewter sixteen pound weight, at 7 d. per pound comes to
+<table>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>9 s.</cell>
+                     <cell>4 d.</cell>
+                  </row>
+                  <row>
+                     <cell>One Alarum Watch, which cost</cell>
+                     <cell>1 l.</cell>
+                     <cell>10 s.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>1 l.</cell>
+                     <cell>19 s.</cell>
+                     <cell>4 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>For the Demand of 20 s. Tythes, for <hi>Samuel Freeman</hi> Priest of the aforesaid Parish.</p>
+            <p>The 15th of the 8th moneth, 1679. Taken from <hi>Elizabeth
+<pb n="40" facs="tcp:206303:21"/> Kembell</hi> Widow of the Parish of <hi>Laurence Pountney,</hi> by <hi>John Harwood</hi> Constable and <hi>William Shaw</hi> one of the Mayor's Officers, <hi>Henry Savidge</hi> Clerk and <hi>Stephen Chilver</hi> Porter, one Silver Tankard weight twenty ounces, as the Goldsmith said that bought it, which cost 5 s. 8 d. per ounce, comes to 5 l. 13 s. 4 d. for 40 s. Tythes Demanded for <hi>Robert Elbourough</hi> Priest of the aforesaid Parish.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>And Returned in Money</cell>
+                     <cell>1 l.</cell>
+                     <cell>18 s.</cell>
+                     <cell>3 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Taken</cell>
+                     <cell>3 l.</cell>
+                     <cell>15 s.</cell>
+                     <cell>1 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>No Warrant shewed, though demanded; nor no Account given by the Priest, though Demanded.</p>
+            <p>Taken from <hi>William Ellis</hi> of the Parish of <hi>Laurence Pountney,</hi> by <hi>John Harwood</hi> Constable, <hi>William Shaw</hi> one of the Mayor's Officers, <hi>Henry Savidge</hi> Clerk and <hi>Stephen Chilver</hi> Porter;
+<table>
+                  <row>
+                     <cell>Nine Gallons one half of <hi>English</hi> Brandy, at 2 s. 6 d. per Gallon</cell>
+                     <cell>1 l.</cell>
+                     <cell>3 s.</cell>
+                     <cell>9 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Two Runlets and a Glass Bottle, worth</cell>
+                     <cell>—</cell>
+                     <cell>3 s.</cell>
+                     <cell>3 d.</cell>
+                  </row>
+                  <row>
+                     <cell>Two Pewter Dishes newly bought, at 8 d. per pound, cost</cell>
+                     <cell>—</cell>
+                     <cell>6.</cell>
+                     <cell>8 d.</cell>
+                  </row>
+                  <row>
+                     <cell>One Dish more, the weight not known, va<g ref="char:EOLhyphen"/>lued at</cell>
+                     <cell>—</cell>
+                     <cell>2 s.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>In all</cell>
+                     <cell>1 l.</cell>
+                     <cell>15 s.</cell>
+                     <cell>8 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>For 13 s. 4 d. demanded for <hi>Robert Elbourough</hi> Priest of the aforesaid Parish.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Returned again the two Empty Runlets, the Glass Bottle with some Brandy in it, all valued at</cell>
+                     <cell>—</cell>
+                     <cell>6 s.</cell>
+                     <cell>6 d.</cell>
+                  </row>
+                  <row>
+                     <cell>So there was taken</cell>
+                     <cell>1 l.</cell>
+                     <cell>9 s.</cell>
+                     <cell>2 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>No Warrant shewed, though desired; nor no Account given, how they disposed of the Goods, though demanded.</p>
+            <pb n="41" facs="tcp:206303:21"/>
+            <p>The 15th of the 8th moneth, 1679. Taken from <hi>Thomas La<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> of the Parish of <hi>Laurence Pountney,</hi> by <hi>John Harwood</hi> Constable, <hi>William Shaw</hi> one of the Mayor's Officers, <hi>Henry Savige</hi> Clerk, <hi>Stephen Chilver</hi> Porter, for 30 s. demanded for five years Tythes for <hi>Robert Elborough,</hi> Priest of the aforesaid Parish;
+<table>
+                  <row>
+                     <cell>One Silver Tankard, weighing seventeen ounces two-penny weight, cost 5 s. 8 d. per ounce; and a Silver Cup,</cell>
+                     <cell>4 l.</cell>
+                     <cell>16 s.</cell>
+                     <cell>10 d.</cell>
+                     <cell>3 q.</cell>
+                  </row>
+                  <row>
+                     <cell>Returned back again the Cup and in Money</cell>
+                     <cell>1 l.</cell>
+                     <cell>14 s.</cell>
+                     <cell>6 d.</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>So the Priest took</cell>
+                     <cell>3 l.</cell>
+                     <cell>2 s.</cell>
+                     <cell>4 d.</cell>
+                     <cell>3 q</cell>
+                  </row>
+               </table>
+            </p>
+            <p>For the Demand above-mentioned, and for his Charges, and would give no Account, though demanded, nor shew no Warrant.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Note, <hi>This Priest</hi> Elborough <hi>took from the three Persons above-mentioned Goods to the value of</hi>
+                     </cell>
+                     <cell>8 l.</cell>
+                     <cell>6 s.</cell>
+                     <cell>7 d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For the Demand of</hi>
+                     </cell>
+                     <cell>3 l.</cell>
+                     <cell>3 s.</cell>
+                     <cell>4 d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Taken more then demanded</hi>
+                     </cell>
+                     <cell>4 l.</cell>
+                     <cell>3 s.</cell>
+                     <cell>3 d.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Taken from <hi>John Aries</hi> (by Virtue of a Warrant granted to <hi>Samuel Freeman,</hi> Priest of the Parish called <hi>Ann</hi> and <hi>Agnes, Lon<g ref="char:EOLhyphen"/>don</hi>) for 52 s. 6 d. demanded for Tythes (or towards the Priests Maintenance) by <hi>Francis Brown</hi> one of the Mayor's Officers and <hi>Henry Wyet</hi> Constable of the Liberty of <hi>Martins le-Grand,</hi> the 21th of the 3d Moneth, 79. <hi>viz.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>One Dozen and nine pair of Nippers valued at</cell>
+                     <cell>—</cell>
+                     <cell>14</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Four Dozen of Cutting Knives, valued at</cell>
+                     <cell>01</cell>
+                     <cell>03</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Twenty Six Sizes</cell>
+                     <cell>02</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Six pair of small Shears</cell>
+                     <cell>—</cell>
+                     <cell>04</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Fourteen pair of Pincers</cell>
+                     <cell>—</cell>
+                     <cell>12</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Twenty Hammers</cell>
+                     <cell>01</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Four Dozen and One Punches</cell>
+                     <cell>—</cell>
+                     <cell>15</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Taken in all</cell>
+                     <cell>07</cell>
+                     <cell>12</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>Returned in the Punches</cell>
+                     <cell>—</cell>
+                     <cell>15</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Demanded</cell>
+                     <cell>02</cell>
+                     <cell>12</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>Taken more than Demanded</cell>
+                     <cell>04</cell>
+                     <cell>05</cell>
+                     <cell>02</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="42" facs="tcp:206303:22"/>
+            <p>Which Goods were appraised by <hi>Norris Firch</hi> Joyner, living in Deans Court, in the Liberty and Parish aforesaid; who told me, That <hi>S. Freeman</hi> the Priest said, <hi>He must praise them at but half the worth, for he must sell them for ready Money:</hi> this he told me before <hi>Samuel Baker</hi> Grinder in <hi>Ann's Lane,</hi> to whom the Priest sold the Goods following for 50 s.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label" cols="2">
+                        <hi>Their Bill, May</hi> 30. 79. viz.</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>The twenty six Sizes</cell>
+                     <cell rows="6">were appraised at</cell>
+                     <cell>01</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>The six pair of small Shears</cell>
+                     <cell>—</cell>
+                     <cell>03</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>The Cutting Knives</cell>
+                     <cell>—</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>The 21 pair of Nippers</cell>
+                     <cell>—</cell>
+                     <cell>03</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>The 14 pair of Pinchers</cell>
+                     <cell>—</cell>
+                     <cell>14</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>The twenty Hammers</cell>
+                     <cell>—</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>In all</cell>
+                     <cell> </cell>
+                     <cell>03</cell>
+                     <cell>—</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Which Goods the Priest notwithstanding sold for</cell>
+                     <cell>02</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Taken from <hi>Philip Ford</hi> in <hi>Bow-Lane, London</hi> the 24th of the 5th Moneth, 1679. by <hi>Richard Smith,</hi> Collector of Tythes for <hi>George Smallwood</hi> Priest of <hi>Mary le Bow,</hi> in company with <hi>John Pencent</hi> Informer living in <hi>More-Lane,</hi> and <hi>William Wil<g ref="char:EOLhyphen"/>son</hi> in <hi>Hand-Ally</hi> in <hi>Cheapside</hi> Taylor, Parish Clerk to <hi>Mildridge</hi> in the <hi>Poultery</hi> or <hi>Hireling</hi> Constable, by Warrant granted by <hi>James Edwards</hi> present Lord Mayor;
+<table>
+                  <row>
+                     <cell role="label" cols="2"> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>Seven Pewter Dishes,</cell>
+                     <cell rows="5">seventy pound weight, cost</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>One Pye Plate,</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>One <hi>ditto</hi> with three Feet,</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Two Sosers,</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Three Porringers,</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Two dozen of Plates, cost</cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>Two Brass Candlesticks, cost</cell>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>One Brass Morter and Pestil, cost</cell>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>One Copper Chafing-dish, cost</cell>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>5</cell>
+                     <cell>13</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Lost in the whole</cell>
+                     <cell>3</cell>
+                     <cell>10</cell>
+                     <cell>5</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="43" facs="tcp:206303:22"/>
+            <p>
+               <hi>Richard Smith,</hi> the Collector of <hi>Tythes,</hi> his Account given in as follows.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>Rec<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ived in Pewter, weighing 2 q. 22 l. 8 oz. at 6 d. per pound, is</cell>
+                     <cell>1</cell>
+                     <cell>19</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Received in Brass, weighing 4 l. 2 oz. at 6 d per pound, is</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Received in Copper, weighing 2 l. 3 oz at 10 d. per pound, is</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Appraised by <hi>David Burden</hi> and <hi>William Croppe</hi> Pewter<g ref="char:EOLhyphen"/>ers the 15th of <hi>August,</hi> 1679.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>Paid for Summons and Warrant</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Paid Mr.</hi> Smallwood <hi>his Tythe, due at</hi> Lady-Day, 79.</cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Paid the Porters, expended upon them</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Paid my self for making Distress</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Paid the Appraisers, and expended on them</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>3</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Rests due to Mr.</hi> Philip Ford <hi>Eight Pence, which is here Returned with the Account</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label">As Computed there is,</cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ob.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Taken</cell>
+                     <cell>427</cell>
+                     <cell>07</cell>
+                     <cell>06</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Demanded</cell>
+                     <cell>116</cell>
+                     <cell>09</cell>
+                     <cell>06</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Returned by Goods, and Mone left at their Houses</cell>
+                     <cell>181</cell>
+                     <cell>09</cell>
+                     <cell>01</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Demanded and Returned</cell>
+                     <cell>297</cell>
+                     <cell>13</cell>
+                     <cell>08</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Remains Unreturned, and for Charges</cell>
+                     <cell>129</cell>
+                     <cell>08</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="postscript">
+            <pb n="44" facs="tcp:206303:23"/>
+            <head>
+               <hi>POSTSCRIPT.</hi> A b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ief State of the Case of the People c<gap reason="illegible" resp="#murp" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>d <hi>Qu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kers</hi> in <hi>LONDON,</hi> in Relation t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Sufferings under the <hi>Parish Priests.</hi>
+            </head>
+            <p>IT is not unknown, that from the time of this Peoples first Appearance within this City and Nation, their Seperation was from, and Testimony against them that preached for Hire, divined for Money, and sought their Gain from their Quarter; &amp; such a <hi>strove for the Fl<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ece,</hi> &amp; <hi>regarded not the Flock:</hi> against these was the Cry of old by the Prophets of the Lord.</p>
+            <p>This may shew, t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Controversie betwixt the <hi>Parish Priests,</hi> and such w<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o inhabit in their Quarter, is no new thing, but the same which was in Times and Generations by past.</p>
+            <p>Its likewise know<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our <hi>Controversie</hi> in this C<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se was hereto<g ref="char:EOLhyphen"/>fore against the <hi>Presbyter</hi> and <hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndependent-Priests,</hi> as now against the <hi>Episcopal.</hi> And every o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> these in their Day having the Co<g ref="char:EOLhyphen"/>lour of Law or Legal Authority, have often extended it to g<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t Ex<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>emity of Cru<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lty; and did not the Civil Magistrate inter<g ref="char:EOLhyphen"/>pose by his Moderation and Authority, many of us had suff<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them in probability yet more Extreamly, as to our Tempo<g ref="char:EOLhyphen"/>rals; <hi>for their Tender Mercies are Cruelty.</hi>
+            </p>
+            <p>
+               <hi>Observ<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> By an <hi>Act</hi> of the 22d and 23d of this King, made in behalf of the <hi>Pa<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ish Priests</hi> in <hi>Lond<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> a <hi>License</hi> or <hi>Liberty</hi> is only given (but no <hi>Imposition</hi> said on the <hi>Majors</hi> of <hi>London,</hi> or any others) <hi>To make out Warrants of Distress by a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y P<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nalty in the said Act;</hi> yet the several Majors have been ready upon Ap<g ref="char:EOLhyphen"/>plication <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de to them, to grant out Warrants of Dist<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ess (al<g ref="char:EOLhyphen"/>though to som<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m this work hath not seemed so pleasing)
+<pb n="45" facs="tcp:206303:23"/> But the Pen-men of that Law supposing there might be a De<g ref="char:EOLhyphen"/>nyal in the <hi>Majors</hi> of <hi>London</hi> to do that, would appoint other Persons to execute such Service on the <hi>Majors</hi> Refusal to act in that matter, as by the same Statute may appear.</p>
+            <p>And the customary manner of the <hi>Parish Priests</hi> is, That when they have a Warrant to make Distress, they or their A<g ref="char:EOLhyphen"/>gents take and carry away out of our Houses, Goods and Wares two, three, four, five, six, or sometimes ten times the value of the Moneys in Demand; and this without making any Appraisment before they carry them thence, contrary to the Use and Custom of all Legal Executions and Distresses whatsoever. And the Constable who is Assistant, not one in the <hi>Parish, Precinct</hi> or <hi>Ward,</hi> but commonly some unknown forreign Deputy-Constable. The Goods are generally carried into some Ale-house, or such like place, and there have been appraised at half or third part the value. Sometimes they return their Over-plus, but with Deduction of Charges equal to a Tryal in <hi>Guildhall;</hi> and very often neither make Restoration of Over-plus, nor give Accompt to the Party how they have appraised or disposed of his Goods.</p>
+            <p>Upon a Distress made, a Priest for 69 s. in demand took and carried away a Hundred and Fifty Pounds worth of Goods to his own House without Appraisment; of which a late L. Major having account, immediately commanded an Officer to cause the Goods distrained to be brought to him, which was done accordingly, and an Appraisment of part of the Goods was t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere made, and the Over-plus Goods returned to the distressed Party.</p>
+            <p>And know for a certain Truth, That it is to keep our Consci<g ref="char:EOLhyphen"/>ences void of Offence towards God, that we cannot pay this <hi>forced Maintenance,</hi> therefore can with all Freedom suffer the <hi>Spoiling of our Goods,</hi> and that with Joy in our Souls to God<g ref="char:EOLhyphen"/>wards: Yet are willing to lay the Unequal Dealing of our Ad<g ref="char:EOLhyphen"/>versaries before the Magistrate, who should not hold the Sword in vain.</p>
+            <p>And inasmuch as the Chief Magistrate of this City will of choice be aiding and assisting to the <hi>Parish Pr<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> A<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> m<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tter of Equity and Eq<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al Justice, we propos<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t w<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> W<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nts o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="46" facs="tcp:206303:24"/> Distress are granted, that therein a Clause may be inserted, or Caution and Direction given:
+<list>
+                  <item>1. <hi>That the Priest or his Collector have with him when he makes Distress, one of the Parish, Precinct, or at least Ward Constables where the Distressed Party inhabits.</hi>
+                  </item>
+                  <item>2. <hi>That the Goods distrained be not taken out of the House or Shop before Appraisment made, as is usual in all other Cases.</hi>
+                  </item>
+                  <item>3. <hi>That the Appraisment be made under the Hands of two sub<g ref="char:EOLhyphen"/>stantial Parishioners within the said Parish where the Distress is made.</hi>
+                  </item>
+                  <item>4. <hi>That Accompt of the Goods, Charges, Expences, to whom and for what paid, be rendred to the Party Distrained within ten dayes after Distress.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>So that as the Law has made a plenary Provision for their pretended Rights, the Magistrate may have an equal Regard, <hi>That no one be oppressed under Colour of Law beyond the Intent of the Law.</hi> Yet notwithstanding, in case the Spoilers are suffer'd to spoil without Limitation or Controle, we are (and do hope shall be) content, and trust that in the Power and Strength of the Most High, we shall be enabled patiently to suffer whatever may or can be our Portion as to this matter, leaving it at their Doors who have power to relieve us in this Case, and yet do not; and commit our Cause to him that will judge Righteously, without Respect of Persons.</p>
+            <closer>
+               <dateline>
+                  <hi>London,</hi>
+                  <date>the 5th Moneth, 1680.</date>
+               </dateline>
+               <signed>T. R.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <pb n="47" facs="tcp:206303:24"/>
+            <head>An <hi>Advertisement</hi> upon such places that are not so fully expressed as they should be.</head>
+            <p>PAge 17. for <hi>William Wigan of the same Parish,</hi> read <hi>of the Parish of</hi> Anne Alders-Gate. And in the end of the same page for <hi>three Years Tythes,</hi> read <hi>three years and a half.</hi> Pag. 20. for <hi>Stoneing</hi> read <hi>John Stoneing:</hi> And in the same page for <hi>John Lance,</hi> read <hi>John Lane.</hi> P. 21. where its said <hi>Aucher,</hi> read <hi>John Au<g ref="char:EOLhyphen"/>cher.</hi> P. 26. where its said <hi>Ditto diem,</hi> it should be <hi>the tenth of the</hi> 7th <hi>mor.</hi> 77. &amp; <hi>the price</hi> 3 <hi>d.</hi> 1 <hi>ob.</hi> P. 27. where its said <hi>returned &amp; taken,</hi> it should be <hi>retur<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d and demanded:</hi> And in the same pag. for <hi>John</hi> read <hi>Franci<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aford.</hi> P. 28. for <hi>John</hi> read <hi>Francis Cra<g ref="char:EOLhyphen"/>ford,</hi> &amp; P. 28. f<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>s.</hi> 10 <hi>d. demanded,</hi> read 15 <hi>s. demanded.</hi> P. 34. to the Distress made upon <hi>Thomas Cobb,</hi> there wants the Returns, which was 28. pound of Cheese, valued at 7 s. P. 36. where its said <hi>sent back one End of Fustian and</hi> 4 <hi>d.</hi> it should be said, <hi>that they left them in the said Persons Ware-house unknown to him until afterwards.</hi> P. 38. in <hi>Samuel Streator</hi>'s Account for a year and a <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uarter Tythes, there wants <hi>the Sum</hi> 1 <hi>l.</hi> 12 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
